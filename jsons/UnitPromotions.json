@@ -65,7 +65,7 @@
 },
 {
 		"name": "Manaflow III"
-		"prerequisites": ["Manaflow"],
+		"prerequisites": ["Manaflow II"],
 		"uniques":["Heals [25] damage if it kills a unit", "[+50%]Strength"],
 		"unitTypes": ["Mage"],
 },
