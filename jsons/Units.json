@@ -94,9 +94,20 @@
 					"[+1100]% Strength <during the [Atomic era]>",
 					"[+1200]% Strength <during the [Information era]>",
 					"[+1300]% Strength <during the [Future era]>",
-					"[+1]movement <starting from [Medieval era]>",
-					"[+1]movement <starting from [Industrial era]>",
-					"Can move after attacking <starting from [Medieval era]>"],
+					"[+1] movement <during the [Medieval era]>",
+			    "[+1] movement <during the [Renaissance era]>",
+			    "[+2] movement <during the [Industrial era]>",
+			    "[+2] movement <during the [Modern era]>",
+			    "[+2] movement <during the [Atomic era]>",
+			    "[+2] movement <during the [Information era]>",
+			    "[+2] movement <during the [Future era]>",
+			   "Can move after attacking <during the [Medieval era]>"
+			   "Can move after attacking <during the [Renaissance era]>"
+			   "Can move after attacking <during the [Industrial era]>"
+			   "Can move after attacking <during the [Modern era]>"
+			   "Can move after attacking <during the [Atomic era]>"
+			   "Can move after attacking <during the [Information era]>"
+			   "Can move after attacking <during the [Future era]>"],
 		"movement": 5
 		"strength":6
 		"promotions":["Morale"]
@@ -112,8 +123,11 @@
 					"[+1200]% Strength <during the [Atomic era]>",
 					"[+1300]% Strength <during the [Information era]>",
 					"[+1400]% Strength <during the [Future era]>",
-			    		"[+400]% Strength <when defending> <starting from [Industrial era]>",
-			   		"[+400]% Strength <when defending> <starting from [Modern era]>"],
+			    		"[+400]% Strength <when defending> <during the [Industrial era]>",
+			   		"[+800]% Strength <when defending> <during the [Modern era]>"],
+					"[+800]% Strength <when defending> <during the [Atomic era]>"],
+					"[+800]% Strength <when defending> <during the [Information era]>"],
+					"[+800]% Strength <when defending> <during the [Future era]>"],
 		"movement": 2
 		"strength":5
 		"promotions":["Morale"]
@@ -126,13 +140,21 @@
 					"[+550]% Strength <during the [Renaissance era]>",
 					"[+1100]% Strength <during the [Industrial era]>",
 					"[+1500]% Strength <during the [Modern era]>",
-					"[+150]% Strength <during the [Atomic era]>",
+					"[+1500]% Strength <during the [Atomic era]>",
 					"[+1550]% Strength <during the [Information era]>",
 					"[+1600]% Strength <during the [Future era]>",
-			   		"[+1]vision <starting from [Industrial era]>",
-					"[+1]vision <starting from [Modern era]>",
-			   		"[50]% chance to intercept air attacks <starting from [Modern era]>",
-			   		"Can perform Air Sweep <starting from [Atomic era]>"],
+			   		"[+1] Sight <during the [Industrial era]>",
+					"[+2] Sight <during the [Modern era]>",
+			    "[+2] Sight <during the [Atomic era]>",
+			    "[+2] Sight <during the [Information era]>",
+			    "[+2] Sight <during the [Future era]>",
+			   		"[50]% chance to intercept air attacks <during the [Modern era]>",
+			    "[50]% chance to intercept air attacks <during the [Atomic era]>",
+			    "[50]% chance to intercept air attacks <during the [Information era]>",
+			    "[50]% chance to intercept air attacks <during the [Future era]>",
+			   		"Can perform Air Sweep <during the [Atomic era]>",
+			   "Can perform Air Sweep <during the [Information era]>",
+			   "Can perform Air Sweep <during the [Future era]>"],
 					
 		"movement": 2
 		"strength":4
@@ -144,17 +166,24 @@
 {
 		"name": "Lady Diana",
 		"unitType": "Battle Queen",
-		"uniques": ["Unbuildable","[+150]% Strength <during the [Classical era]>",
+		"uniques": ["Unbuildable","[+175]% Strength <during the [Classical era]>",
 					"[+350]% Strength <during the [Medieval era]>",
-					"[+600]% Strength <during the [Renaissance era]>",
-					"[+800]% Strength <during the [Industrial era]>",
-					"[+900]% Strength <during the [Modern era]>",
-					"[+1000]% Strength <during the [Atomic era]>",
-					"[+1100]% Strength <during the [Information era]>",
-					"[+1200]% Strength <during the [Future era]>",
-			    		"[+200]% Strength <vs cities> <starting from [Classical era]>",
-			   		"[+200]% Strength <vs cities> <starting from [Medieval era]>",
-			   		"[+200]% Strength <vs cities> <starting from [Renaissance era]>"],
+					"[+700]% Strength <during the [Renaissance era]>",
+					"[+900]% Strength <during the [Industrial era]>",
+					"[+1000]% Strength <during the [Modern era]>",
+					"[+1100]% Strength <during the [Atomic era]>",
+					"[+1200]% Strength <during the [Information era]>",
+					"[+1300]% Strength <during the [Future era]>",
+			    		"[+200]% Strength <vs cities> <during the [Classical era]>",
+			   		"[+400]% Strength <vs cities> <during the [Medieval era]>",
+			   		"[+600]% Strength <vs cities> <during the [Renaissance era]>",
+			   "[+600]% Strength <vs cities> <during the [Renaissance era]>",
+			   "[+600]% Strength <vs cities> <during the [Industrial era]>",
+			   "[+600]% Strength <vs cities> <during the [Modern era]>",
+			   "[+600]% Strength <vs cities> <during the [Atomic era]>",
+			   "[+600]% Strength <vs cities> <during the [Information era]>",
+			    "[+600]% Strength <vs cities> <during the [Future era]>"
+			   ],
 		"movement": 3
 		"strength":6
 		"promotions":["Morale"]
@@ -166,11 +195,14 @@
 					"[+150]% Strength <during the [Medieval era]>",
 					"[+200]% Strength <during the [Renaissance era]>",
 					"[+400]% Strength <during the [Industrial era]>",
-					"[+600]% Strength <during the [Modern era]>",
-					"[+1000]% Strength <during the [Atomic era]>",
-					"[+1200]% Strength <during the [Information era]>",
-					"[+1400]% Strength <during the [Future era]>",
-					"[+1]range <starting from [Atomic era]>"],
+					"[+700]% Strength <during the [Modern era]>",
+					"[+1200]% Strength <during the [Atomic era]>",
+					"[+1400]% Strength <during the [Information era]>",
+					"[+1500]% Strength <during the [Future era]>",
+					"[+1]range <during the [Atomic era]>",
+			    		"[+1]range <during the [Information era]>",
+			   		"[+1]range <during the [Future era]>"
+			   ],
 		"movement": 3
 		"strength":5
 		"promotions":["Morale"]
