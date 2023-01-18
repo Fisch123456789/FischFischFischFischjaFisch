@@ -83,5 +83,13 @@
 		"uniques": ["Can construct [Holy Forge]", "Unbuildable"],
 		"movement": 2
 	},
+{
+		"name": "Lord Argarok",
+		"unitType": "Sword",
+		"uniques": ["Unbuildable"],
+		"movement": 5
+		"strength":4
+		"promotions":["Morale"]
+	},
 
 ]
