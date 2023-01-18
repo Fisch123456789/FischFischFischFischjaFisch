@@ -27,6 +27,33 @@
 		"uniques": ["[+50%]Strength"],
 		"unitTypes": ["Lord","Mage"],
     },
+{
+		"name": "Attack I",
+		"prerequisites": ["Revivication III"],
+		"uniques": ["[+100%]Strength"],
+		"unitTypes": ["Lord","Mage"],
+    },
+{
+		"name": "Attack II",
+		"prerequisites": ["Attack I"],
+		"uniques": ["[+100%]Strength"],
+		"unitTypes": ["Lord","Mage"],
+    },
+{
+		"name": "Attack III",
+		"prerequisites": ["Attack II"],
+		"uniques": ["[+100%]Strength"],
+		"unitTypes": ["Lord","Mage"],
+    },
+{
+		"name": "Attack IV",
+		"prerequisites": ["Attack III"],
+		"uniques": ["[+100%]Strength"],
+		"unitTypes": ["Lord","Mage"],
+    },
+
+
+
 
 
 ]
