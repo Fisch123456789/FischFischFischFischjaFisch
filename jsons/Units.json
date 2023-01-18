@@ -106,6 +106,8 @@
 		"movement": 2
 		"strength":4
 		"promotions":["Morale"]
+		"range": 2,
+		"rangedStrength": 4
 	},
 {
 		"name": "Lady Diana",
@@ -120,8 +122,10 @@
 		"unitType": "Lord",
 		"uniques": ["Unbuildable"],
 		"movement": 3
-		"strength":4
+		"strength":3
 		"promotions":["Morale"]
+		"range": 2,
+		"rangedStrength": 6
 	},
 
 ]
