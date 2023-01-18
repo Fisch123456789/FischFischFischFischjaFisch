@@ -96,25 +96,25 @@
 {
 		"name": "Poke III"
 		"prerequisites": ["Poke II"],
-		"uniques":["[+100%]Strength"],
+		"uniques":["[+100%]Strength <when attacking>"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Poke IV"
 		"prerequisites": ["Poke III"],
-		"uniques":["[+200%]Strength","Ranged attacks may be performed over obstacles"],
+		"uniques":["[+200%]Strength <when attacking>","Ranged attacks may be performed over obstacles"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Poke V"
 		"prerequisites": ["Poke IV"],
-		"uniques":["[+300%]Strength","[+1] Range"],
+		"uniques":["[+300%]Strength <when attacking>","[+1] Range"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Poke VI"
 		"prerequisites": ["Poke V"],
-		"uniques":["[+200%]Strength","[1] additional attacks per turn"],
+		"uniques":["[+200%]Strength <when attacking>","[1] additional attacks per turn"],
 		"unitTypes": ["Mage"],
 },
 {
