@@ -11,21 +11,21 @@
 }
 {
 		"name": "Revivication I",
-		"uniques": ["[+5%]Strength"],
-		"unitTypes": ["Lord"],
+		"uniques": ["[+25%]Strength"],
+		"unitTypes": ["Lord","Mage"],
        
     },
 {
 		"name": "Revivication II",
 		"prerequisites": ["Revivication I"],
-		"uniques": ["[+5%]Strength"],
-		"unitTypes": ["Lord"],
+		"uniques": ["[+25%]Strength"],
+		"unitTypes": ["Lord","Mage"],
     },
 {
 		"name": "Revivication III",
 		"prerequisites": ["Revivication II"],
-		"uniques": ["[+5%]Strength"],
-		"unitTypes": ["Lord"],
+		"uniques": ["[+50%]Strength"],
+		"unitTypes": ["Lord","Mage"],
     },
 
 
