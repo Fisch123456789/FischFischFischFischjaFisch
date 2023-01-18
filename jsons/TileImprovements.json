@@ -1,0 +1,12 @@
+[
+  {"name": "Holy Forge",
+"terrainsCanBeBuiltOn": ["Land"],
+"faith":2,
+"production":2,
+"uniques": ["Great Improvement","[+1 Production] <after discovering [Bronze Working]>", "[+1 Production] <after discovering [Metal Casting]>",
+            "[+2 Faith] <after discovering [Theology]>"]
+  }
+
+
+
+]
