@@ -78,6 +78,7 @@
 	
 	{
 		"name": "Forge Priest",
+		"uniqueTo": "Loewenland",
 		"unitType": "Civilian",
 		"uniques": ["Can construct [Holy Forge]"],
 		"movement": 2
