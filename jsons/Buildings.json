@@ -21,4 +21,15 @@
 		"maintenance": 1,
 		"requiredTech": "Refrigeration"
 	},
+	{
+		"name": "Forge",
+		"uniqueTo": "Loewenland",
+		"replaces": "Monument",
+		"culture": 3,
+		"production":2,
+		"cost": 30,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": ["Destroyed when the city is captured"]
+	},
 ]
