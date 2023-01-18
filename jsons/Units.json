@@ -39,7 +39,7 @@
 		"cost": 375,
   "upgradesTo": "Orca",
 		"requiredTech": "Combustion",
-  "obsoleteTech": "Computer",
+  "obsoleteTech": "Computers",
 		"uniques": ["Can see invisible [Submarine] units", "[40]% chance to intercept air attacks",
 			"May withdraw before melee ([80]%)", "[+100]% Strength <vs [Submarine] units>"],
 		"attackSound": "shipguns"
