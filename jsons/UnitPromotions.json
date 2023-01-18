@@ -64,6 +64,12 @@
 		"unitTypes": ["Mage"],
 },
 {
+		"name": "Manaflow III"
+		"prerequisites": ["Manaflow"],
+		"uniques":["Heals [25] damage if it kills a unit", "[+50%]Strength"],
+		"unitTypes": ["Mage"],
+},
+{
 		"name": "Floating"
 		"prerequisites": ["Revivication III"],
 		"uniques":["+1 Movement","[+50%]Strength"],
@@ -101,11 +107,28 @@
 },
 {
 		"name": "Poke V"
-		"prerequisites": ["Poke I"],
+		"prerequisites": ["Poke IV"],
 		"uniques":["[+300]Strength","[+1] Range"],
 		"unitTypes": ["Mage"],
 },
-
+{
+		"name": "Poke VI"
+		"prerequisites": ["Poke V"],
+		"uniques":["[+200]Strength","[1] additional attacks per turn"],
+		"unitTypes": ["Mage"],
+},
+{
+		"name": "Powerball"
+		"prerequisites": ["Poke VI"],
+		"uniques":["[+300]Strength",<when attacking>],
+		"unitTypes": ["Mage"],
+},
+{
+		"name": "Powerball"
+		"prerequisites": ["Poke VI"],
+		"uniques":["[+300]Strength",<when attacking>,"[-100]Strength",<when defending>],
+		"unitTypes": ["Mage"],
+},
 
 
 
