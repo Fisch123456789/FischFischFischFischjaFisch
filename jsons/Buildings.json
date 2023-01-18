@@ -2,7 +2,7 @@
 {
 		"name": "Bandit's Port",
 		"uniqueTo": "Inselstaat",
-		"replaces": "Harbour",
+		"replaces": "Harbor",
     "cost": "120",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
