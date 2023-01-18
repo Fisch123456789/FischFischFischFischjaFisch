@@ -9,6 +9,24 @@
 		"uniques": ["Heals [50] damage if it kills a unit", "[+25]% Strength <vs [Wounded] units>"]
 
 }
+{
+		"name": "Revivication I",
+		"uniques": ["[+5%]Strength"],
+		"unitTypes": ["Lord"],
+       
+    },
+{
+		"name": "Revivication II",
+		"prerequisites": ["Revivication I"],
+		"uniques": ["[+5%]Strength"],
+		"unitTypes": ["Lord"],
+    },
+{
+		"name": "Revivication III",
+		"prerequisites": ["Revivication II"],
+		"uniques": ["[+5%]Strength"],
+		"unitTypes": ["Lord"],
+    },
 
 
 ]
