@@ -25,10 +25,40 @@
       "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
        "[+1 Production] from [Water] tiles [in all cities]"
       "[+2 Production] from [Ocean] tiles [in all cities]"
+	"[-1 Production] from [Hill] tiles [in all cities]"
 	"[non-air] units gain the [Seaborn] promotion"
     ],
 		"uniqueText": "Units will have the Power to cross all kind of seas. The gifts of the Seas strengthen their cities.",
 		"cities": ["Venedigdo","Arminia", "Joja", "Räubersiedlung", "Raule", "Neu Raww", "Küstendorf", "Eibelhausen", "Ikerus", "Kohlberg", "Margusgrab"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
+	{
+		"name": "Löwenland",
+		"leaderName": "Tirantur",
+		"adjective": ["Lions"],
+    "startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "You feared me, but now your nightmares becomes Reality!",
+		"attacked": "Not a wise choice",
+		"defeated": "The pride of a Lion does not vanish in defeat!",
+		"introduction": "You should fear me!",
+		"neutralHello": "Roar",
+		"hateHello": "Roooaar!!",
+		"tradeRequest": "An eye for an eye.",
+		"outerColor": [255, 213, 110],
+		"innerColor": [0, 135, 15],
+		"favoredReligion": "Christianity",
+		"uniqueName": "The Pride of the Lions",
+		"uniques": ["[land] units gain the [Predator] promotion", "Earn [25]% of killed [non-air] unit's [Strength] as [Gold]",
+			    "Earn [25]% of killed [non-air] unit's [Strength] as [Culture]","Earn [15]% of killed [non-air] unit's [Strength] as [Science]"
+      
+    ],
+		"uniqueText": "Land units get Predator Promotion. Killing enemy units grants bonus gold, culture and science.",
+		"cities": ["Löwenstadt", "Diele"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
   ]
