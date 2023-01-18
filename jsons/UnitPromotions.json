@@ -51,7 +51,18 @@
 		"uniques": ["[+100%]Strength"],
 		"unitTypes": ["Lord","Mage"],
     },
-
+{
+		"name": "Manaflow"
+		"prerequisites": ["Revivication III"],
+		"uniques":["Unit will heal every turn, even if it performs an action", "[+50%]Strength"],
+		"unitTypes": ["Mage"],
+}
+{
+		"name": "Manaflow II"
+		"prerequisites": ["Manaflow"],
+		"uniques":[""All healing effects doubled", "[+50%]Strength"],
+		"unitTypes": ["Mage"],
+}
 
 
 
