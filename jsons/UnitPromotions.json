@@ -5,7 +5,7 @@
 	}
 	
 	{
-	"name": "predator", 
+	"name": "Predator", 
 		"uniques": ["Heals [50] damage if it kills a unit", "[+25]% Strength <vs [Wounded] units>"]
 
 }
