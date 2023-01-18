@@ -1,0 +1,33 @@
+[
+	{
+		"name": "Inselstaat",
+		"leaderName": "Jonas",
+		"adjective": ["Inseluaner"],
+    "startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "You will drown in the waves of death!",
+		"attacked": "You got off the wrong foot, in the depths of the seas, all your hopes will drown!",
+		"defeated": "The sea knows no mercy!",
+		"introduction": "You people look weak, the sea hates the weak!",
+		"neutralHello": "Im always open for business.",
+		"hateHello": "Let's see what ya got for me.",
+		"tradeRequest": "You should accept, otherwise, well I dont know.",
+		"outerColor": [179, 178, 184],
+		"innerColor": [37, 43, 33],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Treasures of the Dephts",
+		"uniques": [
+      "Enables embarkation for land units <starting from the [Ancient era]>",
+      "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
+       "[+1 Production] from [Water] tiles [in all cities]"
+      "[+2 Production] from [Ocean] tiles [in all cities]"
+    ],
+		"uniqueText": "Units will have the Power to cross all kind of seas.",
+		"cities": ["Venedigdo","Arminia", "Joja", "Räubersiedlung", "Raule", "Neu Raww", "Küstendorf", "Eibelhausen", "Ikerus", "Kohlberg", "Margusgrab"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
+  ]
