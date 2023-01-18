@@ -32,4 +32,14 @@
 		"maintenance": 2,
 		"uniques": ["Destroyed when the city is captured","Free [Forge Priest] appears"]
 	},
+	{
+		"name": "Graveyard",
+		"uniqueTo": "The Forgotten Hords",
+		"replaces": "Shrine",
+		"faith": 3,
+		"science":2,
+		"gold": 1,
+		"requiredTech": "Pottery"
+	},
+	
 ]
