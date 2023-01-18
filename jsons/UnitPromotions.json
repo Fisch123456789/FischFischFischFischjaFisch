@@ -63,7 +63,18 @@
 		"uniques":["All healing effects doubled", "[+50%]Strength"],
 		"unitTypes": ["Mage"],
 }
-
+{
+		"name": "Floating"
+		"prerequisites": ["Revivication III"],
+		"uniques":["+1 Movement","[+50%]Strength"],
+		"unitTypes": ["Mage"],
+}
+{
+		"name": "Floating II"
+		"prerequisites": ["Floating I"],
+		"uniques":["[+200%]Strength"],
+		"unitTypes": ["Mage"],
+}
 
 
 
