@@ -108,25 +108,25 @@
 {
 		"name": "Poke V"
 		"prerequisites": ["Poke IV"],
-		"uniques":["[+300]Strength","[+1] Range"],
+		"uniques":["[+300%]Strength","[+1] Range"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Poke VI"
 		"prerequisites": ["Poke V"],
-		"uniques":["[+200]Strength","[1] additional attacks per turn"],
+		"uniques":["[+200%]Strength","[1] additional attacks per turn"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Powerball"
 		"prerequisites": ["Poke VI"],
-		"uniques":["[+300]Strength",<when attacking>],
+		"uniques":["[+300%]Strength",<when attacking>],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Powerball"
 		"prerequisites": ["Poke VI"],
-		"uniques":["[+300]Strength",<when attacking>,"[-100]Strength",<when defending>],
+		"uniques":["[+300%]Strength",<when attacking>,"[-100%]Strength",<when defending>],
 		"unitTypes": ["Mage"],
 },
 
