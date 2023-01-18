@@ -7,6 +7,24 @@
   "name": "Mage",
         "movementType": "Land"
   }
+ {
+  "name": "Wizard",
+        "movementType": "Land"
+  }
+
+ {
+  "name": "Battle Queen",
+        "movementType": "Land"
+  }
+
+ {
+  "name": "Shadow Knight",
+        "movementType": "Land"
+  }
+{
+  "name": "Leader",
+        "movementType": "Land"
+  }
 
 
 ]
