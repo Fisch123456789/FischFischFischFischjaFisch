@@ -51,5 +51,14 @@
         "uniques": ["Free [Lord Argarok] appears"],
 		"quote": "'They are blind, they are fools, im coming for them, im going to end their endless sufffer!Hahahaha!!' - Lord Argarok himself"
 	},
+	{
+		"name": "Lord Arfriel's Grave",
+		"culture": 1,
+		"cost": 70,
+		"isWonder": true,
+		"uniqueTo": "The Forgotten Hords",
+        "uniques": ["Free [Lord Arfriel] appears"],
+		"quote": "'The taste of blood has been out of my mind for an eternally, its time to get bakc, cause nothings sweeter than blood with revenge' - Lord Arfriel himself"
+	},
 	
 ]
