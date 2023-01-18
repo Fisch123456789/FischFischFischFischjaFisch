@@ -42,15 +42,10 @@
 {
 		"name": "Attack III",
 		"prerequisites": ["Attack II"],
-		"uniques": ["[+100%]Strength"],
+		"uniques": ["[+100%]Strength","[1] additional attacks per turn"],
 		"unitTypes": ["Lord","Mage"],
     },
-{
-		"name": "Attack IV",
-		"prerequisites": ["Attack III"],
-		"uniques": ["[+100%]Strength"],
-		"unitTypes": ["Lord","Mage"],
-    },
+
 {
 		"name": "Manaflow"
 		"prerequisites": ["Revivication III"],
@@ -83,52 +78,25 @@
 },
 {
 		"name": "Poke"
-		"prerequisites": ["Floating II"],
-		"uniques":["[+100%]Strength"],
+		"prerequisites": ["Revivication III"],
+		"uniques":["[+100%]Strength","+1 Range"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Poke II"
 		"prerequisites": ["Poke"],
-		"uniques":["[+100%]Strength", "+1 Range"],
+		"uniques":["[+100%]Strength", "Ranged attacks may be performed over obstacles"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Poke III"
 		"prerequisites": ["Poke II"],
-		"uniques":["[+100%]Strength <when attacking>"],
+		"uniques":["[+100%]Strength","+1 Range"],
 		"unitTypes": ["Mage"],
 },
-{
-		"name": "Poke IV"
-		"prerequisites": ["Poke III"],
-		"uniques":["[+200%]Strength <when attacking>","Ranged attacks may be performed over obstacles"],
-		"unitTypes": ["Mage"],
-},
-{
-		"name": "Poke V"
-		"prerequisites": ["Poke IV"],
-		"uniques":["[+300%]Strength <when attacking>","[+1] Range"],
-		"unitTypes": ["Mage"],
-},
-{
-		"name": "Poke VI"
-		"prerequisites": ["Poke V"],
-		"uniques":["[+200%]Strength <when attacking>","[1] additional attacks per turn"],
-		"unitTypes": ["Mage"],
-},
-{
-		"name": "Powerball"
-		"prerequisites": ["Poke VI"],
-		"uniques":["[+300%]Strength <when attacking>"],
-		"unitTypes": ["Mage"],
-},
-{
-		"name": "Powerball"
-		"prerequisites": ["Poke VI"],
-		"uniques":["[+300%]Strength <when attacking>","[-100%]Strength <when defending>"],
-		"unitTypes": ["Mage"],
-},
+
+
+
 
 
 
