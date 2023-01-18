@@ -25,6 +25,7 @@
       "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
        "[+1 Production] from [Water] tiles [in all cities]"
       "[+2 Production] from [Ocean] tiles [in all cities]"
+	"[non-air] units gain the [Seaborn] promotion"
     ],
 		"uniqueText": "Units will have the Power to cross all kind of seas.",
 		"cities": ["Venedigdo","Arminia", "Joja", "Räubersiedlung", "Raule", "Neu Raww", "Küstendorf", "Eibelhausen", "Ikerus", "Kohlberg", "Margusgrab"],
