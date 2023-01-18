@@ -56,25 +56,56 @@
 		"prerequisites": ["Revivication III"],
 		"uniques":["Unit will heal every turn, even if it performs an action", "[+50%]Strength"],
 		"unitTypes": ["Mage"],
-}
+},
 {
 		"name": "Manaflow II"
 		"prerequisites": ["Manaflow"],
 		"uniques":["All healing effects doubled", "[+50%]Strength"],
 		"unitTypes": ["Mage"],
-}
+},
 {
 		"name": "Floating"
 		"prerequisites": ["Revivication III"],
 		"uniques":["+1 Movement","[+50%]Strength"],
 		"unitTypes": ["Mage"],
-}
+},
 {
 		"name": "Floating II"
-		"prerequisites": ["Floating I"],
-		"uniques":["[+200%]Strength"],
+		"prerequisites": ["Floating"],
+		"uniques":["[+100%]Strength"],
 		"unitTypes": ["Mage"],
-}
+},
+{
+		"name": "Poke"
+		"prerequisites": ["Floating II"],
+		"uniques":["[+100%]Strength"],
+		"unitTypes": ["Mage"],
+},
+{
+		"name": "Poke II"
+		"prerequisites": ["Poke"],
+		"uniques":["[+100%]Strength", "+1 Range"],
+		"unitTypes": ["Mage"],
+},
+{
+		"name": "Poke III"
+		"prerequisites": ["Poke II"],
+		"uniques":["[+100%]Strength"],
+		"unitTypes": ["Mage"],
+},
+{
+		"name": "Poke IV"
+		"prerequisites": ["Poke III"],
+		"uniques":["[+200%]Strength","Ranged attacks may be performed over obstacles"],
+		"unitTypes": ["Mage"],
+},
+{
+		"name": "Poke V"
+		"prerequisites": ["Poke I"],
+		"uniques":["[+300]Strength","[+1] Range"],
+		"unitTypes": ["Mage"],
+},
+
 
 
 
