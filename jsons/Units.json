@@ -113,7 +113,7 @@
 					"[+1300]% Strength <during the [Information era]>",
 					"[+1400]% Strength <during the [Future era]>",
 			    		"[+400]% Strength <when defending> <starting from [Industrial era]>",
-			   		"[+400]% Strength <when defending> <starting from [Modern era]>"]
+			   		"[+400]% Strength <when defending> <starting from [Modern era]>"],
 		"movement": 2
 		"strength":5
 		"promotions":["Morale"]
@@ -132,7 +132,7 @@
 			   		"[+1]vision <starting from [Industrial era]>",
 					"[+1]vision <starting from [Modern era]>",
 			   		"[50]% chance to intercept air attacks <starting from [Modern era]>",
-			   		"Can perform Air Sweep <starting from [Atomic era]>"]
+			   		"Can perform Air Sweep <starting from [Atomic era]>"],
 					
 		"movement": 2
 		"strength":4
@@ -151,7 +151,10 @@
 					"[+900]% Strength <during the [Modern era]>",
 					"[+1000]% Strength <during the [Atomic era]>",
 					"[+1100]% Strength <during the [Information era]>",
-					"[+1200]% Strength <during the [Future era]>"],
+					"[+1200]% Strength <during the [Future era]>",
+			    		"[+200]% Strength <vs cities> <starting from [Classical era]>",
+			   		"[+200]% Strength <vs cities> <starting from [Medieval era]>",
+			   		"[+200]% Strength <vs cities> <starting from [Renaissance era]>"],
 		"movement": 3
 		"strength":6
 		"promotions":["Morale"]
