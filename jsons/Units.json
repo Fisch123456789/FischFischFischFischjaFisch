@@ -61,5 +61,18 @@
 		 "upgradesTo": "Missile Cruiser",
 		"obsoleteTech": "Robotics",
 	},
+{
+		"name": "Lionrider",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 21,
+		"cost": 135,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"promotions": ["Morale"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles"],
+		"attackSound": "horse"
+	},
 
 ]
