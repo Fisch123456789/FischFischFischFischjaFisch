@@ -104,9 +104,18 @@
 {
 		"name": "Lord Arfriel",
 		"unitType": "Leader",
-		"uniques": ["Unbuildable"],
-		"movement": 3
-		"strength":4
+		"uniques": ["Unbuildable","[+50]% Strength <during the [Classical era]>",
+					"[+150]% Strength <during the [Medieval era]>",
+					"[+400]% Strength <during the [Renaissance era]>",
+					"[+700]% Strength <during the [Industrial era]>",
+					"[+1100]% Strength <during the [Modern era]>",
+					"[+1200]% Strength <during the [Atomic era]>",
+					"[+1300]% Strength <during the [Information era]>",
+					"[+1400]% Strength <during the [Future era]>",
+			    		"[+400]% Strength <when defending> <starting from [Industrial era]>",
+			   		"[+400]% Strength <when defending> <starting from [Modern era]>"]
+		"movement": 2
+		"strength":5
 		"promotions":["Morale"]
 	},
 {
@@ -119,13 +128,18 @@
 					"[+1500]% Strength <during the [Modern era]>",
 					"[+150]% Strength <during the [Atomic era]>",
 					"[+1550]% Strength <during the [Information era]>",
-					"[+1600]% Strength <during the [Future era]>"],
+					"[+1600]% Strength <during the [Future era]>",
+			   		"[+1]vision <starting from [Industrial era]>",
+					"[+1]vision <starting from [Modern era]>",
+			   		"[50]% chance to intercept air attacks <starting from [Modern era]>",
+			   		"Can perform Air Sweep <sarting from [Atomic era]>"]
 					
 		"movement": 2
 		"strength":4
 		"promotions":["Morale"]
 		"range": 2,
-		"rangedStrength": 5
+		"rangedStrength": 5,
+		"intercept range":2
 	},
 {
 		"name": "Lady Diana",
