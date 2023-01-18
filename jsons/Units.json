@@ -12,7 +12,7 @@
 		"requiredTech": "Astronomy",
 		"upgradesTo": "Ironclad",
 		"obsoleteTech": "Combustion",
-    "promotions": ["Mobility"],
+    "promotions": ["Mobility","Boarding Party"],
 		"uniques": ["[+1] Sight"],
 		"hurryCostModifier": 30,
 		"attackSound": "cannon"
