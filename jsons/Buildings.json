@@ -36,6 +36,7 @@
 		"name": "Graveyard",
 		"uniqueTo": "The Forgotten Hords",
 		"replaces": "Shrine",
+		"cost": 40,
 		"faith": 3,
 		"science":2,
 		"gold": 1,
@@ -44,6 +45,7 @@
 	{
 		"name": "Lord Argarok's Grave",
 		"culture": 1,
+		"cost": 70,
 		"isWonder": true,
 		"uniqueTo": "The Forgotten Hords",
         "uniques": ["Free [Lord Argarok] appears"],
