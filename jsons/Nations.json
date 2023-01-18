@@ -61,4 +61,31 @@
 		"cities": ["Löwenstadt", "Diele"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
     },
+	
+	{
+		"name": "The Forgotten Hords",
+		"leaderName": "The Lords",
+		"adjective": ["The Forgotten"],
+		"preferredVictoryType": "Science",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "The Void inside your heart is your greatest enemy.",
+		"attacked": "The curse is yours, Fool!",
+		"defeated": "Forgotten again",
+		"introduction": "Centuries ago we were banished, we were forgotten, but know we return for our last revenge, our Hunger and Wrath is greater than you can imagine.",
+		"neutralHello": "May the Wind bless your fields stranger",
+		"hateHello": "The curses burn eternally",
+		"tradeRequest": "A man is only as strong as his heart tells him to be, so sometimes you have to beat your heart.",
+		"outerColor": [171,35,35],
+		"innerColor": [228,255,119],
+		"favoredReligion": "Taoism",
+		"uniqueName": "Dissect the Dead",
+		"uniques": [ "Earn [35]% of killed [Enemy] unit's [Strength] as [Science]","[+1] Sight <for [Land] units>"],
+		"uniqueText": "The Forgotten dissect the corpses of their foes to get science, their ruined eyes provide more vision for Land units.",
+		"cities": ["The ancient Grave", "Graveyard of Boostan", "Agnatol", "Interium Death", "The Rocks of Tortune", "Tresure","Pighowl", "Nightmare", "Blessing",
+			"Konfuzio", "Deathson Grave", "Eternal Hunger" ,"Marita", "Death"],
+        "spyNames": ["Oris", "Camira", "Dojas", "Keitas", "Konwus", "Liara", "Taoras", "Aurora", "Keltro", "Samias"]
+    },
   ]
