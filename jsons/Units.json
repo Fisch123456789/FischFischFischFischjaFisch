@@ -124,9 +124,9 @@
 					"[+1300]% Strength <during the [Information era]>",
 					"[+1400]% Strength <during the [Future era]>",
 			    		"[+400]% Strength <when defending> <during the [Industrial era]>",
-			   		"[+800]% Strength <when defending> <during the [Modern era]>"],
-					"[+800]% Strength <when defending> <during the [Atomic era]>"],
-					"[+800]% Strength <when defending> <during the [Information era]>"],
+			   		"[+800]% Strength <when defending> <during the [Modern era]>",
+					"[+800]% Strength <when defending> <during the [Atomic era]>",
+					"[+800]% Strength <when defending> <during the [Information era]>",
 					"[+800]% Strength <when defending> <during the [Future era]>"],
 		"movement": 2
 		"strength":5
