@@ -127,7 +127,7 @@
 					"[+600]% Strength <during the [Modern era]>",
 					"[+1000]% Strength <during the [Atomic era]>",
 					"[+1200]% Strength <during the [Information era]>",
-					"[+1400]% Strength <during the [Future era]>",],
+					"[+1400]% Strength <during the [Future era]>"],
 		"movement": 3
 		"strength":4
 		"promotions":["Morale"]
