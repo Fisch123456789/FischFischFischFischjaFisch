@@ -64,6 +64,8 @@
 {
 		"name": "Lionrider",
 		"unitType": "Mounted",
+		"uniqueTo": "Loewenland",
+		"replaces": "Knight",
 		"movement": 4,
 		"strength": 21,
 		"cost": 135,
