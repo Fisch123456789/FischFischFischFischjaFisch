@@ -74,7 +74,7 @@
 		"upgradesTo": "Cavalry",
 		"promotions": ["Morale"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit","[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles"],
-		"attackSound": "horse"
+		"attackSound": "horse"},
 	
 	{
 		"name": "Forge Priest",
