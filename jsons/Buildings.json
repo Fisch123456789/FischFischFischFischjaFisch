@@ -30,6 +30,6 @@
 		"cost": 30,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["Destroyed when the city is captured","Free [Forge Priest] appears"]
 	},
 ]
