@@ -3,7 +3,12 @@
 		"name": "Seaborn", 
 		"uniques": ["Can enter ice tiles"]
 	}
+	
+	{
+	"name": "predator", 
+		"uniques": ["Heals [50] damage if it kills a unit", "[+25]% Strength <vs [Wounded] units>"]
 
+}
 
 
 ]
