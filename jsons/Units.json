@@ -119,7 +119,7 @@
 	},
 {
 		"name": "Lady Liara",
-		"unitType": "Lord",
+		"unitType": "Mage",
 		"uniques": ["Unbuildable"],
 		"movement": 3
 		"strength":3
