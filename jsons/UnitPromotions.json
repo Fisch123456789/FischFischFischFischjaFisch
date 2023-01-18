@@ -126,7 +126,7 @@
 {
 		"name": "Powerball"
 		"prerequisites": ["Poke VI"],
-		"uniques":["[+300%]Strength",<when attacking>","[-100%]Strength <when defending>"],
+		"uniques":["[+300%]Strength <when attacking>","[-100%]Strength <when defending>"],
 		"unitTypes": ["Mage"],
 },
 
