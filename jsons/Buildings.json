@@ -53,7 +53,7 @@
 	},
 	{
 		"name": "Lord Arfriel's Grave",
-		"culture": 1,
+		"hapiness": 1,
 		"cost": 70,
 		"isWonder": true,
 		"uniqueTo": "The Forgotten Hords",
