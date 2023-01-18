@@ -3,6 +3,10 @@
   "name": "Lord",
         "movementType": "Land"
   }
+  {
+  "name": "Mage",
+        "movementType": "Land"
+  }
 
 
 ]
