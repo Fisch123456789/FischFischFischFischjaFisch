@@ -120,20 +120,20 @@
 {
 		"name": "Lady Liara",
 		"unitType": "Mage",
-		"uniques": ["Unbuildable"],
-		"movement": 3
-		"strength":4
-		"promotions":["Morale"]
-		"range": 2,
-		"rangedStrength": 6,
-					"[+75]% Strength <during the [Classical era]>",
+		"uniques": ["Unbuildable","[+75]% Strength <during the [Classical era]>",
 					"[+150]% Strength <during the [Medieval era]>",
 					"[+200]% Strength <during the [Renaissance era]>",
 					"[+400]% Strength <during the [Industrial era]>",
 					"[+700]% Strength <during the [Modern era]>",
 					"[+1300]% Strength <during the [Atomic era]>",
 					"[+1500]% Strength <during the [Information era]>",
-					"[+1800]% Strength <during the [Future era]>",
+					"[+1800]% Strength <during the [Future era]>",],
+		"movement": 3
+		"strength":4
+		"promotions":["Morale"]
+		"range": 2,
+		"rangedStrength": 6,
+					
 	},
 
 ]
