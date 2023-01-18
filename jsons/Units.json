@@ -139,7 +139,7 @@
 		"promotions":["Morale"]
 		"range": 2,
 		"rangedStrength": 5,
-		"intercept range":2
+		"interceptRange":2
 	},
 {
 		"name": "Lady Diana",
