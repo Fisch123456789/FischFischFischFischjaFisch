@@ -22,7 +22,7 @@
 		"requiredTech": "Refrigeration"
 	},
 	{
-		"name": "Forge",
+		"name": "Sacred Forge",
 		"uniqueTo": "Loewenland",
 		"replaces": "Monument",
 		"culture": 3,
