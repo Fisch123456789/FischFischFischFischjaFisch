@@ -78,7 +78,7 @@
 {
 		"name": "Floating II"
 		"prerequisites": ["Floating"],
-		"uniques":["[+100%]Strength"],
+		"uniques":["[+100%]Strength","Ignores terrain cost"],
 		"unitTypes": ["Mage"],
 },
 {
