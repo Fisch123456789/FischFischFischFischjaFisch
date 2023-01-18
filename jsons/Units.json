@@ -95,7 +95,31 @@
 		"name": "Lord Arfriel",
 		"unitType": "Lord",
 		"uniques": ["Unbuildable"],
-		"movement": 5
+		"movement": 6
+		"strength":4
+		"promotions":["Morale"]
+	},
+{
+		"name": "Lord Artruo",
+		"unitType": "Lord",
+		"uniques": ["Unbuildable"],
+		"movement": 2
+		"strength":4
+		"promotions":["Morale"]
+	},
+{
+		"name": "Lady Diana",
+		"unitType": "Lord",
+		"uniques": ["Unbuildable"],
+		"movement": 3
+		"strength":4
+		"promotions":["Morale"]
+	},
+{
+		"name": "Lady Liara",
+		"unitType": "Lord",
+		"uniques": ["Unbuildable"],
+		"movement": 3
 		"strength":4
 		"promotions":["Morale"]
 	},
