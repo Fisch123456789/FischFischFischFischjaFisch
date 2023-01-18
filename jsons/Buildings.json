@@ -10,5 +10,15 @@
 			"Connects trade routes over water","Must be next to [Coast]",
       "New [Water] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Compass"
-}
+},
+	{
+		"name": "Soccer Arena",
+		"uniqueTo": "Inselstaat",
+		"replaces": "Stadium",
+		"happiness": 5,
+		"culture":3,
+		"requiredBuilding": "Theatre",
+		"maintenance": 1,
+		"requiredTech": "Refrigeration"
+	},
 ]
