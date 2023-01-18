@@ -60,7 +60,7 @@
 {
 		"name": "Manaflow II"
 		"prerequisites": ["Manaflow"],
-		"uniques":[""All healing effects doubled", "[+50%]Strength"],
+		"uniques":["All healing effects doubled", "[+50%]Strength"],
 		"unitTypes": ["Mage"],
 }
 
