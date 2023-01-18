@@ -16,8 +16,8 @@
 		"neutralHello": "Im always open for business.",
 		"hateHello": "Let's see what ya got for me.",
 		"tradeRequest": "You should accept, otherwise, well I dont know.",
-		"outerColor": [179, 178, 184],
-		"innerColor": [37, 43, 33],
+		"outerColor": [255,186,14],
+		"innerColor": [0,226,26],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Treasures of the Dephts",
 		"uniques": [
