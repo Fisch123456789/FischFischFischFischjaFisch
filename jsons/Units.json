@@ -1,0 +1,48 @@
+
+[
+
+		{
+		"name": "Wave-Raider",
+    "uniqueTo": "Inselstaat",
+		"replaces": "Caravel",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 30,
+		"cost": 180,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+    "promotions": ["Mobility"],
+		"uniques": ["[+1] Sight",],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
+	},
+  {
+		"name": "Orca",
+		"unitType": "Melee Water",
+		"movement": 7,
+		"strength": 110,
+		"cost": 450,
+    	"interceptRange": 4,
+		"requiredTech": "Computers",
+    "uniques": ["Can see invisible [Submarine] units", "[100]% chance to intercept air attacks",
+			"May withdraw before melee ([80]%)", "[+100]% Strength <vs [Submarine] units>"],
+		"hurryCostModifier": 30,
+		"attackSound": "shipguns"
+	}
+  {
+		"name": "Destroyer",
+		"unitType": "Melee Water",
+		"movement": 6,
+		"strength": 55,
+		"interceptRange": 2,
+		"cost": 375,
+  "upgradesTo": "Orca",
+		"requiredTech": "Combustion",
+  "obsoleteTech": "Computer",
+		"uniques": ["Can see invisible [Submarine] units", "[40]% chance to intercept air attacks",
+			"May withdraw before melee ([80]%)", "[+100]% Strength <vs [Submarine] units>"],
+		"attackSound": "shipguns"
+	},
+
+]
