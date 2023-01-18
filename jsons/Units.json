@@ -85,7 +85,7 @@
 	},
 {
 		"name": "Lord Argarok",
-		"unitType": "Sword",
+		"unitType": "Lord",
 		"uniques": ["Unbuildable"],
 		"movement": 5
 		"strength":4
