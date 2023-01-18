@@ -95,12 +95,12 @@
 					"[+1200]% Strength <during the [Information era]>",
 					"[+1300]% Strength <during the [Future era]>",
 					"[+1] movement <during the [Medieval era]>",
-			    "[+1] movement <during the [Renaissance era]>",
-			    "[+2] movement <during the [Industrial era]>",
-			    "[+2] movement <during the [Modern era]>",
-			    "[+2] movement <during the [Atomic era]>",
-			    "[+2] movement <during the [Information era]>",
-			    "[+2] movement <during the [Future era]>",
+			    "[+1] Movement <during the [Renaissance era]>",
+			    "[+2] Movement <during the [Industrial era]>",
+			    "[+2] Movement <during the [Modern era]>",
+			    "[+2] Movement <during the [Atomic era]>",
+			    "[+2] Movement <during the [Information era]>",
+			    "[+2] Movement <during the [Future era]>",
 			   "Can move after attacking <during the [Medieval era]>"
 			   "Can move after attacking <during the [Renaissance era]>"
 			   "Can move after attacking <during the [Industrial era]>"
@@ -199,9 +199,9 @@
 					"[+1200]% Strength <during the [Atomic era]>",
 					"[+1400]% Strength <during the [Information era]>",
 					"[+1500]% Strength <during the [Future era]>",
-					"[+1]range <during the [Atomic era]>",
-			    		"[+1]range <during the [Information era]>",
-			   		"[+1]range <during the [Future era]>"
+					"[+1] Range <during the [Atomic era]>",
+			    		"[+1] Range <during the [Information era]>",
+			   		"[+1] Range <during the [Future era]>"
 			   ],
 		"movement": 3
 		"strength":5
