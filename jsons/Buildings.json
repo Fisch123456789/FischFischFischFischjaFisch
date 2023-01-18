@@ -41,5 +41,13 @@
 		"gold": 1,
 		"requiredTech": "Pottery"
 	},
+	{
+		"name": "Lord Argarok's Grave",
+		"culture": 1,
+		"isWonder": true,
+		"uniqueTo": "The Forgotten Hords",
+        "uniques": ["Free [Lord Argarok] appears"],
+		"quote": "'They are blind, they are fools, im coming for them, im going to end their endless sufffer!Hahahaha!!' - Lord Argarok himself"
+	},
 	
 ]
