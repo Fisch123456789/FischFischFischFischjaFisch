@@ -85,36 +85,61 @@
 	},
 {
 		"name": "Lord Argarok",
-		"unitType": "Lord",
-		"uniques": ["Unbuildable"],
+		"unitType": "Shadow Knight",
+		"uniques": ["Unbuildable","[+100]% Strength <during the [Classical era]>",
+					"[+175]% Strength <during the [Medieval era]>",
+					"[+500]% Strength <during the [Renaissance era]>",
+					"[+800]% Strength <during the [Industrial era]>",
+					"[+1000]% Strength <during the [Modern era]>",
+					"[+1100]% Strength <during the [Atomic era]>",
+					"[+1200]% Strength <during the [Information era]>",
+					"[+1300]% Strength <during the [Future era]>",
+					"[+1]movement <starting from [Medieval era]>",
+					"[+1]movement <starting from [Industrial era]>",
+					"Can move after attacking <starting from [Medieval era]>"],
 		"movement": 5
-		"strength":4
+		"strength":6
 		"promotions":["Morale"]
 	},
 {
 		"name": "Lord Arfriel",
-		"unitType": "Lord",
+		"unitType": "Leader",
 		"uniques": ["Unbuildable"],
-		"movement": 6
+		"movement": 3
 		"strength":4
 		"promotions":["Morale"]
 	},
 {
 		"name": "Lord Artruo",
-		"unitType": "Lord",
-		"uniques": ["Unbuildable"],
+		"unitType": "Wizard",
+		"uniques": ["Unbuildable","[+50]% Strength <during the [Classical era]>",
+					"[+150]% Strength <during the [Medieval era]>",
+					"[+550]% Strength <during the [Renaissance era]>",
+					"[+1100]% Strength <during the [Industrial era]>",
+					"[+1500]% Strength <during the [Modern era]>",
+					"[+150]% Strength <during the [Atomic era]>",
+					"[+1550]% Strength <during the [Information era]>",
+					"[+1600]% Strength <during the [Future era]>"],
+					
 		"movement": 2
 		"strength":4
 		"promotions":["Morale"]
 		"range": 2,
-		"rangedStrength": 4
+		"rangedStrength": 5
 	},
 {
 		"name": "Lady Diana",
-		"unitType": "Lord",
-		"uniques": ["Unbuildable"],
+		"unitType": "Battle Queen",
+		"uniques": ["Unbuildable","[+150]% Strength <during the [Classical era]>",
+					"[+350]% Strength <during the [Medieval era]>",
+					"[+600]% Strength <during the [Renaissance era]>",
+					"[+800]% Strength <during the [Industrial era]>",
+					"[+900]% Strength <during the [Modern era]>",
+					"[+1000]% Strength <during the [Atomic era]>",
+					"[+1100]% Strength <during the [Information era]>",
+					"[+1200]% Strength <during the [Future era]>"],
 		"movement": 3
-		"strength":4
+		"strength":6
 		"promotions":["Morale"]
 	},
 {
@@ -128,8 +153,9 @@
 					"[+1000]% Strength <during the [Atomic era]>",
 					"[+1200]% Strength <during the [Information era]>",
 					"[+1400]% Strength <during the [Future era]>"],
+					"[+1]range <starting from [Atomic era]>",
 		"movement": 3
-		"strength":4
+		"strength":5
 		"promotions":["Morale"]
 		"range": 2,
 		"rangedStrength": 6,
