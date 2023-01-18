@@ -91,5 +91,13 @@
 		"strength":4
 		"promotions":["Morale"]
 	},
+{
+		"name": "Lord Arfriel",
+		"unitType": "Lord",
+		"uniques": ["Unbuildable"],
+		"movement": 5
+		"strength":4
+		"promotions":["Morale"]
+	},
 
 ]
