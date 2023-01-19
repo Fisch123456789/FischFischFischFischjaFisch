@@ -211,5 +211,20 @@
 		"rangedStrength": 6,
 					
 	},
+{
+		"name": "Shadow",
+		"unitType": "Sword",
+		"uniqueTo": "South Shadow Isles",
+		"replaces": "Musketeer",
+		"movement": 5,
+		"strength": 17,
+		"rangedStrength":24,
+		"range":1,
+		"cost": 160,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Great War Infantry",
+		"promotions": ["Mobility"],
+		"uniques": ["Can move after attacking","Never appears as a Barbarian unit", "[+100%] Strength <enemy unit below [50] Health>"],
+		"attackSound": "horse"},
 
 ]
