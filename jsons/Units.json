@@ -225,6 +225,6 @@
 		"upgradesTo": "Great War Infantry",
 		"promotions": ["Mobility"],
 		"uniques": ["Can move after attacking","Never appears as a Barbarian unit", "[+100%] Strength <enemy unit below [50] Health>"],
-		"attackSound": "horse"},
+		"attackSound": "metalhit"},
 
 ]
