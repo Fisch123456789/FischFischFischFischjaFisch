@@ -24,7 +24,47 @@
 {
   "name": "Leader",
         "movementType": "Land"
-  }
+  },
+ {
+        "name": "Sword",
+        "movementType": "Land",
+   "uniques": ["[-50%] Strength <when below [50] HP>"],
+    },
+    {
+        "name": "Gunpowder",
+        "movementType": "Land",
+       "uniques": ["[-50%] Strength <when below [50] HP>"],
+    },
+    {
+        "name": "Archery",
+        "movementType": "Land",
+       "uniques": ["[-50%] Strength <when below [50] HP>"],
+    },
+    {
+        "name": "Ranged Gunpowder",
+        "movementType": "Land",
+       "uniques": ["[-50%] Strength <when below [50] HP>"],
+    },
+    {
+        "name": "Scout",
+        "movementType": "Land",
+       "uniques": ["[-50%] Strength <when below [50] HP>"],
+    },
+    {
+        "name": "Mounted",
+        "movementType": "Land",
+       "uniques": ["[-50%] Strength <when below [50] HP>"],
+    },
+    {
+        "name": "Armored",
+        "movementType": "Land",
+       "uniques": ["[-50%] Strength <when below [50] HP>"],
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land",
+       "uniques": ["[-50%] Strength <when below [50] HP>"],
+    },
 
 
 ]
