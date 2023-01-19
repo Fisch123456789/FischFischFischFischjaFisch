@@ -87,5 +87,30 @@
 		"cities": ["The ancient Grave", "Graveyard of Boostan", "Agnatol", "Interium Death", "The Rocks of Tortune", "Tresure","Pighowl", "Nightmare", "Blessing",
 			"Konfuzio", "Deathson Grave", "Eternal Hunger" ,"Marita", "Death"],
         "spyNames": ["Oris", "Camira", "Dojas", "Keitas", "Konwus", "Liara", "Taoras", "Aurora", "Keltro", "Samias"]
+    },{
+		"name": "South Shadow Isles",
+		"leaderName": "Johannesso Kralle",
+		"adjective": ["Samurai"],
+		"preferredVictoryType": "Culture",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "May our blades give you a last rest.",
+		"attacked": "You never attack from behind!",
+		"defeated": "Our spirit stays undefeated!",
+		"introduction": "We were betrayed, power destroys a soiety, but we got back up, and now we are strong in our new home again!",
+		"neutralHello": "Ai",
+		"hateHello": "Ai",
+		"tradeRequest": "Think twice",
+		"outerColor": [21,0,31],
+		"innerColor": [109,109,109],
+		"favoredReligion": "Budhism",
+		"uniqueName": "The Forgotten Arts",
+		"uniques": [ "[+1 Culuture] from every [Improvement]"],
+		"uniqueText": "",
+		"cities": ["Tiakti", "Casas", "Agnatol", "Lengen", "Honorless", "Portsut","Dogge", "Nightmare", "Blessing",
+			"Konfuzio", "Deathson Grave", "Eternal Hunger" ,"Marita", "Death"],
+        "spyNames": ["Oris", "Camira", "Dojas", "Keitas", "Konwus", "Liara", "Taoras", "Aurora", "Keltro", "Samias"]
     },
   ]
