@@ -107,7 +107,7 @@
 		"innerColor": [109,109,109],
 		"favoredReligion": "Budhism",
 		"uniqueName": "The Forgotten Arts",
-		"uniques": [ "[+1 Culuture] from every [Improvement]"],
+		"uniques": [ "[+1 Culture] from every [Improvement]"],
 		"uniqueText": "",
 		"cities": ["Tiakti", "Casas", "Agnatol", "Lengen", "Honorless", "Portsut","Dogge", "Nightmare", "Blessing",
 			"Konfuzio", "Deathson Grave", "Eternal Hunger" ,"Marita", "Death"],
