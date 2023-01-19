@@ -213,7 +213,7 @@
 	},
 {
 		"name": "Shadow",
-		"unitType": "Sword",
+		"unitType": "Assasine",
 		"uniqueTo": "South Shadow Isles",
 		"replaces": "Musketeer",
 		"movement": 5,
