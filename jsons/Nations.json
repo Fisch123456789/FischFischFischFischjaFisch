@@ -105,7 +105,7 @@
 		"tradeRequest": "Think twice",
 		"outerColor": [21,0,31],
 		"innerColor": [109,109,109],
-		"favoredReligion": "Budhism",
+		"favoredReligion": "Buddhism",
 		"uniqueName": "The Forgotten Arts",
 		"uniques": ["[+1 Culture] from [All] tiles [in all cities]"],
 		"uniqueText": "",
