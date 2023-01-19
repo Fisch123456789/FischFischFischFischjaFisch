@@ -12,38 +12,38 @@
 {
 		"name": "Revivication",
 		"uniques": ["[+25%]Strength"],
-		"unitTypes": ["Lord","Mage"],
+		"unitTypes": ["Mage"],
        
     },
 {
 		"name": "Revivication II",
 		"prerequisites": ["Revivication"],
 		"uniques": ["[+25%]Strength"],
-		"unitTypes": ["Lord","Mage"],
+		"unitTypes": ["Mage"],
     },
 {
 		"name": "Revivication III",
 		"prerequisites": ["Revivication II"],
 		"uniques": ["[+50%]Strength"],
-		"unitTypes": ["Lord","Mage"],
+		"unitTypes": ["Mage"],
     },
 {
 		"name": "Attack I",
 		"prerequisites": ["Revivication III"],
 		"uniques": ["[+100%]Strength"],
-		"unitTypes": ["Lord","Mage"],
+		"unitTypes": ["Mage"],
     },
 {
 		"name": "Attack II",
 		"prerequisites": ["Attack I"],
 		"uniques": ["[+100%]Strength"],
-		"unitTypes": ["Lord","Mage"],
+		"unitTypes": ["Mage"],
     },
 {
 		"name": "Attack III",
 		"prerequisites": ["Attack II"],
 		"uniques": ["[+100%]Strength","[1] additional attacks per turn"],
-		"unitTypes": ["Lord","Mage"],
+		"unitTypes": ["Mage"],
     },
 
 {
