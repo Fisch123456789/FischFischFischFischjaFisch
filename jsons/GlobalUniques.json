@@ -1,7 +1,9 @@
 {
   
     "name": "Global Combat uniques",
-    "uniques": ["[-50]% Strength <against [Execute] units><when defending><for [All] units> <when below [50] Hp>"]
+    "uniques": ["[-50]% Strength <against [Execute] units><when defending><for [All] units> <when below [50] Hp>",
+               "[-75]% Strength <against [Execute] units><when defending><for [All] units> <when below [30] Hp>",
+                "[-99]% Strength <against [Execute] units><when defending><for [All] units> <when below [15] Hp>"]
   
   }
 
