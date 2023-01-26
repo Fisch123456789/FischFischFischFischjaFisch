@@ -94,6 +94,12 @@
 		"uniques":["[+100%]Strength","+1 Range"],
 		"unitTypes": ["Mage"],
 },
+{
+		"name": "Elite Force"
+		"uniques":["May withdraw before melee ([100]%)","Unable to capture cities","May Paradrop up to [7] tiles from inside friendly territory","All tiles cost 1 movement",
+		"[0] Movement point cost to embark"],
+
+},
 
 
 
