@@ -25,46 +25,6 @@
   "name": "Leader",
         "movementType": "Land"
   },
- {
-        "name": "Sword",
-        "movementType": "Land",
-   "uniques": ["[-50%] Strength <when below [50] HP> <vs [Assasine] units><when defending>"],
-    },
-    {
-        "name": "Gunpowder",
-        "movementType": "Land",
-       "uniques": ["[-50%] Strength <when below [50] HP> <vs [Assasine] units><when defending>"],
-    },
-    {
-        "name": "Archery",
-        "movementType": "Land",
-       "uniques": ["[-50%] Strength <when below [50] HP> <vs [Assasine] units><when defending>"],
-    },
-    {
-        "name": "Ranged Gunpowder",
-        "movementType": "Land",
-       "uniques": ["[-50%] Strength <when below [50] HP> <vs [Assasine] units><when defending>"],
-    },
-    {
-        "name": "Scout",
-        "movementType": "Land",
-       "uniques": ["[-50%] Strength <when below [50] HP> <vs [Assasine] units><when defending>"],
-    },
-    {
-        "name": "Mounted",
-        "movementType": "Land",
-       "uniques": ["[-50%] Strength <when below [50] HP> <vs [Assasine] units><when defending>"],
-    },
-    {
-        "name": "Armored",
-        "movementType": "Land",
-       "uniques": ["[-50%] Strength <when below [50] HP> <vs [Assasine] units><when defending>"],
-    },
-    {
-        "name": "Siege",
-        "movementType": "Land",
-       "uniques": ["[-50%] Strength <when below [50] HP> <vs [Assasine] units><when defending>"],
-    },
-
+ 
 
 ]
