@@ -225,5 +225,18 @@
 		"promotions": ["Mobility"],
 		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"},
+{
+		"name": "Special Agent Force",
+		"unitType": "Execute",
+		"uniqueTo": "South Shadow Isles",
+		"movement": 4,
+		"strength": 32,
+		"rangedStrength":60,
+		"range":1,
+		"cost": 300,
+		"requiredTech": "Radar",
+		"promotions": ["Elite Force"],
+		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
+		"attackSound": "metalhit"},
 
 ]
