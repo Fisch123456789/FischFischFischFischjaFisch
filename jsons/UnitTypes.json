@@ -25,6 +25,10 @@
   "name": "Leader",
         "movementType": "Land"
   },
+{
+  "name": "Execute",
+        "movementType": "Land"
+  },
  
 
 ]
