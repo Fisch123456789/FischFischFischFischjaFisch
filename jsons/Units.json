@@ -213,18 +213,17 @@
 	},
 {
 		"name": "Shadow",
-		"unitType": "Assasine",
+		"unitType": "Execute",
 		"uniqueTo": "South Shadow Isles",
-		"replaces": "Musketeer",
 		"movement": 5,
 		"strength": 17,
 		"rangedStrength":24,
 		"range":1,
 		"cost": 160,
 		"requiredTech": "Gunpowder",
-		"upgradesTo": "Great War Infantry",
+		"upgradesTo": "Special Agent Force",
 		"promotions": ["Mobility"],
-		"uniques": ["Can move after attacking","Never appears as a Barbarian unit", "[+100%] Strength <vs [Military] unit below [50] Health>"],
+		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
 		"attackSound": "metalhit"},
 
 ]
