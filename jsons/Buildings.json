@@ -86,6 +86,15 @@
 		"uniqueTo": "The Forgotten Hords",
         "uniques": ["Free [Lady Liara] appears"],
 		"quote": "'The world is a beautiful place, with endless potential, lets make it a better place to be.' - Lady Liara herself"
-	}
+	},
+	{
+		"name": "Assasin Hood",
+		"uniqueTo": "South Shadow Isles",
+		"culture": 1,
+		"cost": 45,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": ["Destroyed when the city is captured","Enables Building of assasin units"]
+	},
 	
 ]
