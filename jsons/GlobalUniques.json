@@ -3,6 +3,7 @@
     "name": "Global uniques",
     "uniques": ["[+50]% Strength <vs [Execute] units><when defending> <when below [50] HP>",
                //"[-75]% Strength <vs [Execute] units><when defending><when below [30] HP>",
-                //"[-99]% Strength <vs [Execute] units><when defending> <when below [15] HP>"]
+                //"[-99]% Strength <vs [Execute] units><when defending> <when below [15] HP>"
+               ]
   
   }
