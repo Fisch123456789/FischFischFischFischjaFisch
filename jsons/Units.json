@@ -160,8 +160,7 @@
 		"movement": 2
 		"strength":4
 		"promotions":["Morale"]
-		"range": 2,
-		"rangedStrength": 5,
+		"range": 2,		"rangedStrength": 5,
 		"interceptRange":2
 	},
 {
@@ -224,7 +223,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Special Agent Force",
 		"promotions": ["Mobility"],
-		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","Never appears as a Barbarian unit","[-300]% Strength <vs cities> <when attacking>"],
 		"attackSound": "metalhit"},
 {
 		"name": "Special Agent Force",
@@ -238,7 +237,7 @@
 		"requiredBuilding": "Assasin Hood",
 		"requiredTech": "Radar",
 		"promotions": ["Elite Force"],
-		"uniques": ["Can move after attacking","Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","Never appears as a Barbarian unit","[-300]% Strength <vs cities> <when attacking>"],
 		"attackSound": "metalhit"},
 
 ]
