@@ -1,8 +1,8 @@
 {
   
     "name": "Global uniques",
-    "uniques": ["[-50]% Strength <vs [Execute] units><when defending><for [All] units> <when below [50] Hp>",
-               "[-75]% Strength <vs [Execute] units><when defending><for [All] units> <when below [30] Hp>",
-                "[-99]% Strength <vs [Execute] units><when defending><for [All] units> <when below [15] Hp>"]
+    "uniques": ["[-50]% Strength <vs [Execute] units><for [All] units> <when below [50] Hp>",
+               //"[-75]% Strength <vs [Execute] units><when defending><for [All] units> <when below [30] Hp>",
+                //"[-99]% Strength <vs [Execute] units><when defending><for [All] units> <when below [15] Hp>"]
   
   }
