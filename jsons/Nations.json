@@ -113,4 +113,32 @@
 			"Konfuzio", "Deathson Grave", "Eternal Hunger" ,"Marita", "Death"],
         "spyNames": ["Oris", "Camira", "Dojas", "Keitas", "Konwus", "Liara", "Taoras", "Aurora", "Keltro", "Samias"]
     },
+	{
+		"name": "Bärenland",
+		"leaderName": "Artos Bärnee",
+		"adjective": ["Bären"],
+    "startBias": ["Forest"],
+		"preferredVictoryType": "Domination",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "You'd like some honey? Well Imma give ya steel.",
+		"attacked": "Im bigger than you im stronger! Where comes the courage? Your going to the graveyard boy.",
+		"defeated": "The forest is still, and peacefull, but it never forgets.",
+		"introduction": "My gates are open for your trades!",
+		"neutralHello": "Hello old friend, ya know, lets keep this business going",
+		"hateHello": "Are you gettin serious now, like a real business man, or are you gonna stay that ignorant kind of not grown up kid?",
+		"tradeRequest": "My trades are fair, if you do not accept, I get a new partner",
+		"outerColor": [255, 213, 110],
+		"innerColor": [0, 135, 15],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Forest Republik",
+		"uniques": [ "[+1 Production] from [Forest] tiles [in all cities]", "[+1 Food] from [Forest] tiles [in all cities]"
+			    ,"[+1 Science] from [Forest] tiles [in all cities]<starting from the Renessaince era>"
+    ],
+		"uniqueText": "",
+		"cities": ["Langstadt","Arminia", "Joja", "Räubersiedlung", "Raule", "Neu Raww", "Küstendorf", "Eibelhausen", "Ikerus", "Kohlberg", "Margusgrab"],
+        "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+    },
   ]
