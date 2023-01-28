@@ -238,7 +238,7 @@
 		"requiredTech": "Radar",
 		"promotions": ["Elite Force"],
 		"uniques": ["Can move after attacking","Never appears as a Barbarian unit","[-300]% Strength <vs cities> <when attacking>"],
-		"attackSound": "metalhit"},
+		"attackSound": "machinegun"},
 {
 		"name": "Rotten Blood"
 		"replaces": "Rifleman",
@@ -252,7 +252,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
 		"uniques": ["[+50%] Strength <when below [50]HP>", "Heals [25] damage if it kills a unit"],
-		"attackSound": "horse"
+		"attackSound": "metalhit"
 	},
 
 ]
