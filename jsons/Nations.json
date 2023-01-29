@@ -136,7 +136,7 @@
 		"uniqueName": "Forest Trade Union",
 		"uniques": [ "[+1 Production] from [Forest] tiles [in all cities]", "[+1 Food] from [Forest] tiles [in all cities]"
 			     "[+1 Gold] from [Forest] tiles [in all cities]","[+1 Science] from [Forest] tiles [in all cities]<starting from the [Renaissance era]>"
-    "[+2 Gold] [in all cities connected to capital]","[+2 Production] [in all cities connected to capital]"
+    "[+2 Gold] [in all cities connected to capital]","[+2 Production] [in all cities connected to capital,"[+2 Production,+2 Gold, +2 Science] from each Trade Route"]"
 			],
 		"uniqueText": "",
 		"cities": ["Langstadt","Arminia", "Joja", "Räubersiedlung", "Raule", "Neu Raww", "Küstendorf", "Eibelhausen", "Ikerus", "Kohlberg", "Margusgrab"],
