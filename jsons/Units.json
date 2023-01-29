@@ -192,7 +192,7 @@
 		"strength": 21,
 		"cost": 135,
 		"uniques": ["[-100]% maintenance costs",  "Can build [Trading post] improvements on tiles",
-			   "Can build [Road] improvements on tiles","Can undertake a trade mission with City-State, giving a large sum of gold and [10] Influence"]
+			   "Can build [Road] improvements on tiles"]
 		"requiredTech": "Steel",
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Gunpowder",
