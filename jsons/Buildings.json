@@ -99,7 +99,7 @@
 	},
 	{
 		"name": "National Trading Net",
-		"cost": 250,
+		"cost": 350,
 		"uniqueTo": "Baerenland",
 		"replaces": "National Treasury"
 		"gold": 8,
