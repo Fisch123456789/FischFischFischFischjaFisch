@@ -7,7 +7,7 @@
             "[+2 Faith] <after discovering [Theology]>"]
   }
 {
-		"name": "Farm",
+		"name": "Bear Farm",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Forest"],
 		"food": 1,
   		"uniqueTo": "Baerenland",
@@ -21,7 +21,7 @@
 		"shortcutKey": "F"
 	},
 {
-		"name": "Mine",
+		"name": "Bear Mine",
 		"terrainsCanBeBuiltOn": ["Hill","Forest"],
 		"production": 1,
 		"uniqueTo": "Baerenland",
@@ -32,7 +32,7 @@
 		"shortcutKey": "M"
 	},
 {
-		"name": "Oil well",
+		"name": "Bear Oil well",
 		"turnsToBuild": 9,
 		"uniqueTo": "Baerenland",
 		"replaces": "Oil well",
@@ -41,7 +41,7 @@
 		"shortcutKey": "W"
 	},
 {
-		"name": "Plantation",
+		"name": "Bear Plantation",
 		"turnsToBuild": 6,
 		"gold": 1,
 		"uniqueTo": "Baerenland",
@@ -51,7 +51,7 @@
 		"shortcutKey": "P"
 	},
 {
-		"name": "Quarry",
+		"name": "Bear Quarry",
 		"turnsToBuild": 8,
 		"uniqueTo": "Baerenland",
 		"replaces": "Quarry",
