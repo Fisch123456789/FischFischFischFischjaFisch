@@ -136,7 +136,7 @@
 		"uniqueName": "Forest Trade Republik",
 		"uniques": [ "[+1 Production] from [Forest] tiles [in all cities]", "[+1 Food] from [Forest] tiles [in all cities]"
 			     "[+1 Gold] from [Forest] tiles [in all cities]","[+1 Science] from [Forest] tiles [in all cities]<starting from the [Renaissance era]>"
-    "[+2 Gold, +2 Production,+1 Science] from each Trade Route", "[+2 Produktion,+2 Gold] [in all cities connected to capital]"],
+    "[+2 Gold, +2 Production,+1 Science] from each Trade Route", "[+2 Gold] [in all cities connected to capital]","[+2 Production] [in all cities connected to capital]"],
 		"uniqueText": "",
 		"cities": ["Langstadt","Arminia", "Joja", "Räubersiedlung", "Raule", "Neu Raww", "Küstendorf", "Eibelhausen", "Ikerus", "Kohlberg", "Margusgrab"],
         "spyNames": ["Johann", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
