@@ -31,6 +31,34 @@
 		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "M"
 	},
+{
+		"name": "Oil well",
+		"turnsToBuild": 9,
+		"uniqueTo": "Bärenland",
+		"replaces": "Oil well",
+		"techRequired": "Biology",
+		"uniques": ["Can only be built to improve a resource", "Does not need removal of [Forest]", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "W"
+	},
+{
+		"name": "Plantation",
+		"turnsToBuild": 6,
+		"gold": 1,
+		"uniqueTo": "Bärenland",
+		"replaces": "Plantation",
+		"techRequired": "Calendar",
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Does not need removal of [Forest]", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "P"
+	},
+{
+		"name": "Quarry",
+		"turnsToBuild": 8,
+		"uniqueTo": "Bärenland",
+		"replaces": "Quarry",
+		"techRequired": "Masonry",
+		"uniques": ["[+1 Production] <after discovering [Chemistry]>",  "Does not need removal of [Forest]","Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "Q"
+	},
 
 
 ]
