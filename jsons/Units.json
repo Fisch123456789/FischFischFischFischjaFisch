@@ -86,48 +86,15 @@
 {
 		"name": "Lord Argarok",
 		"unitType": "Shadow Knight",
-		"uniques": ["Unbuildable","[+100]% Strength <during the [Classical era]>",
-					"[+175]% Strength <during the [Medieval era]>",
-					"[+700]% Strength <during the [Renaissance era]>",
-					"[+1000]% Strength <during the [Industrial era]>",
-					"[+1300]% Strength <during the [Modern era]>",
-					"[+1400]% Strength <during the [Atomic era]>",
-					"[+1500]% Strength <during the [Information era]>",
-					"[+1600]% Strength <during the [Future era]>",
-					"[+1] Movement <during the [Medieval era]>",
-			    "[+2] Movement <during the [Renaissance era]>",
-			    "[+2] Movement <during the [Industrial era]>",
-			    "[+3] Movement <during the [Modern era]>",
-			    "[+3] Movement <during the [Atomic era]>",
-			    "[+4] Movement <during the [Information era]>",
-			    "[+4] Movement <during the [Future era]>",
-			   "Can move after attacking <during the [Medieval era]>"
-			   "Can move after attacking <during the [Renaissance era]>"
-			   "Can move after attacking <during the [Industrial era]>"
-			   "Can move after attacking <during the [Modern era]>"
-			   "Can move after attacking <during the [Atomic era]>"
-			   "Can move after attacking <during the [Information era]>"
-			   "Can move after attacking <during the [Future era]>"],
-		"movement": 5
+	"movement": 5
 		"strength":6
 		"promotions":["Morale"]
+		
 	},
 {
 		"name": "Lord Arfriel",
 		"unitType": "Leader",
-		"uniques": ["Unbuildable","[+50]% Strength <during the [Classical era]>",
-					"[+150]% Strength <during the [Medieval era]>",
-					"[+600]% Strength <during the [Renaissance era]>",
-					"[+900]% Strength <during the [Industrial era]>",
-					"[+1300]% Strength <during the [Modern era]>",
-					"[+1400]% Strength <during the [Atomic era]>",
-					"[+1500]% Strength <during the [Information era]>",
-					"[+1600]% Strength <during the [Future era]>",
-			    		"[+400]% Strength <when defending> <during the [Industrial era]>",
-			   		"[+800]% Strength <when defending> <during the [Modern era]>",
-					"[+800]% Strength <when defending> <during the [Atomic era]>",
-					"[+900]% Strength <when defending> <during the [Information era]>",
-					"[+1200]% Strength <when defending> <during the [Future era]>"],
+
 		"movement": 2
 		"strength":5
 		"promotions":["Morale"]
@@ -135,27 +102,7 @@
 {
 		"name": "Lord Artruo",
 		"unitType": "Wizard",
-		"uniques": ["Unbuildable","[+50]% Strength <during the [Classical era]>",
-					"[+150]% Strength <during the [Medieval era]>",
-					"[+650]% Strength <during the [Renaissance era]>",
-					"[+1700]% Strength <during the [Industrial era]>",
-					"[+1800]% Strength <during the [Modern era]>",
-					"[+1800]% Strength <during the [Atomic era]>",
-					"[+1850]% Strength <during the [Information era]>",
-					"[+1850]% Strength <during the [Future era]>",
-			   		"[+1] Sight <during the [Industrial era]>",
-					"[+3] Sight <during the [Modern era]>",
-			    "[+3] Sight <during the [Atomic era]>",
-			    "[+3] Sight <during the [Information era]>",
-			    "[+3] Sight <during the [Future era]>",
-			   		"[50]% chance to intercept air attacks <during the [Modern era]>",
-			    "[50]% chance to intercept air attacks <during the [Atomic era]>",
-			    "[50]% chance to intercept air attacks <during the [Information era]>",
-			    "[50]% chance to intercept air attacks <during the [Future era]>",
-			   		"Can perform Air Sweep <during the [Atomic era]>",
-			   "Can perform Air Sweep <during the [Information era]>",
-			   "Can perform Air Sweep <during the [Future era]>",
-			   "[+1900]% Strength <vs [Air] units>"],
+	
 					
 		"movement": 2
 		"strength":4
@@ -166,24 +113,7 @@
 {
 		"name": "Lady Diana",
 		"unitType": "Battle Queen",
-		"uniques": ["Unbuildable","[+175]% Strength <during the [Classical era]>",
-					"[+350]% Strength <during the [Medieval era]>",
-					"[+800]% Strength <during the [Renaissance era]>",
-					"[+1000]% Strength <during the [Industrial era]>",
-					"[+1100]% Strength <during the [Modern era]>",
-					"[+1300]% Strength <during the [Atomic era]>",
-					"[+1500]% Strength <during the [Information era]>",
-					"[+1600]% Strength <during the [Future era]>",
-			    		"[+200]% Strength <vs cities> <during the [Classical era]>",
-			   		"[+400]% Strength <vs cities> <during the [Medieval era]>",
-			   		"[+600]% Strength <vs cities> <during the [Renaissance era]>",
-			   "[+600]% Strength <vs cities> <during the [Renaissance era]>",
-			   "[+600]% Strength <vs cities> <during the [Industrial era]>",
-			   "[+600]% Strength <vs cities> <during the [Modern era]>",
-			   "[+900]% Strength <vs cities> <during the [Atomic era]>",
-			   "[+1200]% Strength <vs cities> <during the [Information era]>",
-			    "[+1200]% Strength <vs cities> <during the [Future era]>"
-			   ],
+	
 		"movement": 3
 		"strength":6
 		"promotions":["Morale"]
@@ -191,18 +121,7 @@
 {
 		"name": "Lady Liara",
 		"unitType": "Mage",
-		"uniques": ["Unbuildable","[+75]% Strength <during the [Classical era]>",
-					"[+150]% Strength <during the [Medieval era]>",
-					"[+300]% Strength <during the [Renaissance era]>",
-					"[+600]% Strength <during the [Industrial era]>",
-					"[+900]% Strength <during the [Modern era]>",
-					"[+1600]% Strength <during the [Atomic era]>",
-					"[+1700]% Strength <during the [Information era]>",
-					"[+1800]% Strength <during the [Future era]>",
-					"[+1] Range <during the [Atomic era]>",
-			    		"[+1] Range <during the [Information era]>",
-			   		"[+1] Range <during the [Future era]>"
-			   ],
+
 		"movement": 3
 		"strength":5
 		"promotions":["Morale"]
