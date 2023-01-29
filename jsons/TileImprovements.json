@@ -7,7 +7,7 @@
             "[+2 Faith] <after discovering [Theology]>"]
   }
 {
-		"name": "Bear Farm",
+		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Forest"],
 		"food": 1,
   		"uniqueTo": "Bärenland",
