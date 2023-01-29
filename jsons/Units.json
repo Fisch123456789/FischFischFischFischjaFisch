@@ -173,7 +173,7 @@
 		"uniques": [ "[+50]% Strength <when below [50] HP>", "Heals [25] damage if it kills a unit"],
 		"attackSound": "metalhit"
 	},
-//"[+50]% Strength <when below [50]HP>",
+
 {
 		"name": "Bear Worker",
 		"unitType": "Bear Worker",
@@ -182,6 +182,21 @@
 		"replaces": "Worker",
 		"cost": 70,
 		"uniques": ["Can build  Bear improvements", "Can eat you if you are not carefull :)"]
-	}
+	},
+{
+		"name": "Merchant",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"movement": 3,
+		"uniqueTo": "Baerenland",
+		"strength": 21,
+		"cost": 135,
+		"uniques": ["[-100]% maintenance costs",  "Can build [Trading post] improvements on tiles",
+			   "Can build [Road] improvements on tiles","Can undertake a trade mission with City-State, giving a large sum of gold and [10] Influence"]
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit"
+	},
 
 ]
