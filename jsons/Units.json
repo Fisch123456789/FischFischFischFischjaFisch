@@ -256,11 +256,10 @@
 	},
 {
 		"name": "Bear Worker",
-		"unitType": "Civilian",
+		"unitType": "Bear Worker",
 		"movement": 5,
 		"uniqueTo": "Baerenland",
 		"replaces": "Worker",
-		"promotions": ["Working Bear"],
 		"cost": 70,
 		"uniques": ["Will not be displayed in Civilopedia"]
 	}
