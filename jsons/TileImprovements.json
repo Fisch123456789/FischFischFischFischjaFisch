@@ -47,8 +47,8 @@
 		"uniqueTo": "Baerenland",
 		"replaces": "Plantation",
 		"techRequired": "Calendar",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Does not need removal of [Forest]", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],,
-	"Will not be displayed in Civilopedia"
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Does not need removal of [Forest]", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]","Will not be displayed in Civilopedia"],
+	
 		"shortcutKey": "P"
 	},
 {
