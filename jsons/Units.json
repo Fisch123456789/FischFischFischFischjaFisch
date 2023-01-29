@@ -258,6 +258,8 @@
 		"name": "Bear Worker",
 		"unitType": "Civilian",
 		"movement": 5,
+		"uniqueTo": "Baerenland",
+		"replaces": "Worker",
 		"uniques": ["Can build [Bear Farm] improvements on tiles",
 			   "Can build [Bear Quarry] improvements on tiles",
 			   "Can build [Bear Mine] improvements on tiles",
