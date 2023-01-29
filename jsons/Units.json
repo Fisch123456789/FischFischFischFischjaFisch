@@ -261,7 +261,7 @@
 		"uniqueTo": "Baerenland",
 		"replaces": "Worker",
 		"cost": 70,
-		"uniques": ["Can build  Landimprovements on tiles", "Can eat you if you are not carefull :)"]
+		"uniques": ["Can build  Bear improvements", "Can eat you if you are not carefull :)"]
 	}
 
 ]
