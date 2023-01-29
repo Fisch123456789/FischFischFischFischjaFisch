@@ -37,8 +37,8 @@
 		"uniqueTo": "Baerenland",
 		"replaces": "Oil well",
 		"techRequired": "Biology",
-		"uniques": ["Can only be built to improve a resource", "Does not need removal of [Forest]", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
-		"shortcutKey": "W""Will not be displayed in Civilopedia"
+		"uniques": ["Can only be built to improve a resource", "Does not need removal of [Forest]", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]","Will not be displayed in Civilopedia"],
+		"shortcutKey": "W"
 	},
 {
 		"name": "Bear Plantation",
