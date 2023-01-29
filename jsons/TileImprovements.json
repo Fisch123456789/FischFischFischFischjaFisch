@@ -17,7 +17,7 @@
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
-            "Pillaging this improvement yields approximately [+18 Gold]"],
+            "Pillaging this improvement yields approximately [+18 Gold]","Will not be displayed in Civilopedia"],
 		"shortcutKey": "F"
 	},
 {
@@ -28,7 +28,7 @@
 		"replaces": "Mine",
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
-		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]","Will not be displayed in Civilopedia"],
 		"shortcutKey": "M"
 	},
 {
@@ -38,7 +38,7 @@
 		"replaces": "Oil well",
 		"techRequired": "Biology",
 		"uniques": ["Can only be built to improve a resource", "Does not need removal of [Forest]", "Cannot be built on [Water] tiles", "Pillaging this improvement yields approximately [+20 Gold]"],
-		"shortcutKey": "W"
+		"shortcutKey": "W""Will not be displayed in Civilopedia"
 	},
 {
 		"name": "Bear Plantation",
@@ -47,7 +47,8 @@
 		"uniqueTo": "Baerenland",
 		"replaces": "Plantation",
 		"techRequired": "Calendar",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Does not need removal of [Forest]", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Does not need removal of [Forest]", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],,
+	"Will not be displayed in Civilopedia"
 		"shortcutKey": "P"
 	},
 {
@@ -56,7 +57,8 @@
 		"uniqueTo": "Baerenland",
 		"replaces": "Quarry",
 		"techRequired": "Masonry",
-		"uniques": ["[+1 Production] <after discovering [Chemistry]>",  "Does not need removal of [Forest]","Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"uniques": ["[+1 Production] <after discovering [Chemistry]>",  "Does not need removal of [Forest]","Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]",
+			   "Will not be displayed in Civilopedia"],
 		"shortcutKey": "Q"
 	},
 
