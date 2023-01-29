@@ -97,5 +97,17 @@
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
+	{
+		"name": "National Trading Net",
+		"cost": 250,
+		"uniqueTo": "Baerenland",
+		"replaces": "National Treasury"
+		"gold": 8,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["[+2 Production] [in all cities connected to capital]", "[+2 Gold] [in all cities connected to capital]"
+		"[+15]% Gold [in all cities connected to capital]","[+15]% Production [in all cities connected to capital]"],
+		"requiredTech": "Currency"
+	},
 	
 ]
