@@ -278,7 +278,8 @@
 			    "Can build [Remove Railroad] improvements on tiles",
 			    "Can build [Cancel improvement order] improvements on tiles",
 			    "Can build [Repair] improvements on tiles","Will not be displayed in Civilopedia"],
-		"cost": 70
+		"cost": 70,
+	"uniqueText":"This unit can create Improvements"
 	}
 
 ]
