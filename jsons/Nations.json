@@ -114,9 +114,9 @@
         "spyNames": ["Oris", "Camira", "Dojas", "Keitas", "Konwus", "Liara", "Taoras", "Aurora", "Keltro", "Samias"]
     },
 	{
-		"name": "Bärenland",
-		"leaderName": "Artos Bärnee",
-		"adjective": ["Bären"],
+		"name": "Baerenland",
+		"leaderName": "Artos Baernee",
+		"adjective": ["Baeren"],
     "startBias": ["Forest"],
 		"preferredVictoryType": "Domination",
 
