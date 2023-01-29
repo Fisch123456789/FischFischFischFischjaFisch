@@ -108,6 +108,7 @@
 		"uniques": ["[+2 Production] [in all cities connected to capital]", "[+2 Gold] [in all cities connected to capital]"
 		"[+15]% Gold [in all cities connected to capital]","[+15]% Production [in all cities connected to capital]"],
 		"requiredTech": "Guilds"
+		"quote": "'In unity our Economy is growing, in unity our Folk is strong, In unity we are unbeatable, In unity we rule the world, with this tradde union noone's ever gonna stop us!' - Artos Baernee during the Union Speech"
 	},
 	
 ]
