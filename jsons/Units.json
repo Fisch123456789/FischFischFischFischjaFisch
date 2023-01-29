@@ -254,5 +254,12 @@
 		"uniques": ["[+50]% Strength <when below [50]HP>", "Heals [25] damage if it kills a unit"],
 		"attackSound": "metalhit"
 	},
+{
+		"name": "Bear Worker",
+		"unitType": "Civilian",
+		"movement": 5,
+		"uniques": ["Can build [Land] improvements on tiles"],
+		"cost": 60
+	},v
 
 ]
