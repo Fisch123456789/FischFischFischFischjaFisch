@@ -257,11 +257,11 @@
 {
 		"name": "Bear Worker",
 		"unitType": "Bear Worker",
-		"movement": 5,
+		"movement": 4,
 		"uniqueTo": "Baerenland",
 		"replaces": "Worker",
 		"cost": 70,
-		"uniques": ["Will not be displayed in Civilopedia"]
+		"uniques": ["Can build Bear-Improvements in Forest Tiles"]
 	}
 
 ]
