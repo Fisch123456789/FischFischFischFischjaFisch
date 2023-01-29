@@ -107,7 +107,7 @@
 		"isNationalWonder": true,
 		"uniques": ["[+2 Production] [in all cities connected to capital]", "[+2 Gold] [in all cities connected to capital]"
 		"[+15]% Gold [in all cities connected to capital]","[+15]% Production [in all cities connected to capital]"],
-		"requiredTech": "Currency"
+		"requiredTech": "Guilds"
 	},
 	
 ]
