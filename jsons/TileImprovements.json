@@ -20,6 +20,17 @@
             "Pillaging this improvement yields approximately [+18 Gold]"],
 		"shortcutKey": "F"
 	},
+{
+		"name": "Mine",
+		"terrainsCanBeBuiltOn": ["Hill","Forest"],
+		"production": 1,
+		"uniqueTo": "Bärenland",
+		"replaces": "Mine",
+		"turnsToBuild": 7,
+		"techRequired": "Mining",
+		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "M"
+	},
 
 
 ]
