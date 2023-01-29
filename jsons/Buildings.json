@@ -27,7 +27,7 @@
 		"replaces": "Monument",
 		"culture": 3,
 		"production":2,
-		"cost": 30,
+		"cost": 50,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
 		"uniques": ["Destroyed when the city is captured","Free [Forge Priest] appears"]
