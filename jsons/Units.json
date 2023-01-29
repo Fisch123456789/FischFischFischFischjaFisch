@@ -262,6 +262,7 @@
 		"replaces": "Worker",
 		"promotions": ["Working Bear"],
 		"cost": 70,
+		"uniques": ["Will not be displayed in Civilopedia"]
 	}
 
 ]
