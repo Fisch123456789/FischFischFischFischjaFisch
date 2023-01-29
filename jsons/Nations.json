@@ -130,8 +130,8 @@
 		"neutralHello": "Hello old friend, ya know, lets keep this business going",
 		"hateHello": "Are you gettin serious now, like a real business man, or are you gonna stay that ignorant kind of not grown up kid?",
 		"tradeRequest": "My trades are fair, if you do not accept, I get a new partner",
-		"outerColor": [255, 213, 110],
-		"innerColor": [0, 135, 15],
+		"outerColor": [14, 227, 38],
+		"innerColor": [16, 74, 23],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Forest Trade Republik",
 		"uniques": [ "[+1 Production] from [Forest] tiles [in all cities]", "[+1 Food] from [Forest] tiles [in all cities]"
