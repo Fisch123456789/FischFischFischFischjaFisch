@@ -170,7 +170,7 @@
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"upgradesTo": "Great War Infantry",
-		"uniques": [ "[+50]% Strength <when below [3] HP>", "Heals [25] damage if it kills a unit"],
+		"uniques": [ "[+50]% Strength <when below [50] HP>", "Heals [25] damage if it kills a unit"],
 		"attackSound": "metalhit"
 	},
 //"[+50]% Strength <when below [50]HP>",
