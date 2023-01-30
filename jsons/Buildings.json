@@ -18,7 +18,8 @@
 		"happiness": 5,
 		"culture":3,
 		"requiredBuilding": "Theatre",
-		"maintenance": 1,
+		"maintenance": 0,
+		"gold": 3,
 		"requiredTech": "Refrigeration"
 	},
 	{
