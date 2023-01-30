@@ -162,8 +162,8 @@
         "innerColor": [255,255,255],
 
         "favoredReligion": "Christianity",
-		"uniqueName": "",
-		"uniques": [],
+		"uniqueName": "Spirit of Hope",
+		"uniques": ["[+2 Happiness, +2 Food][in all cities]"],
 		"cities": ["Atil Town","Mascobar","Elite","Dragon Cliff","Southern Hills","North Shadow Isles","Easter","Tan Hica","El Capinou","Tas Tretar"],
         "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
