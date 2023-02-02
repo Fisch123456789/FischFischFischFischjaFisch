@@ -62,7 +62,7 @@
 		"shortcutKey": "Q"
 	},
 {
-		"name": "Pasture",
+		"name": "Bear Pasture",
 		"turnsToBuild": 8,
 		"uniqueTo": "Baerenland",
 		"replaces": "Pasture",
