@@ -61,5 +61,14 @@
 			   "Will not be displayed in Civilopedia"],
 		"shortcutKey": "Q"
 	},
+{
+		"name": "Bear Pasture",
+		"turnsToBuild": 8,
+		"uniqueTo": "Baerenland",
+		"replaces": "Pasture",
+		"techRequired": "Animal Husbandry",
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Does not need removal of [Forest]", "Pillaging this improvement yields approximately [+10 Gold]", "Will not be displayed in Civilopedia"],
+		"shortcutKey": "P"
+	},
 
 ]
