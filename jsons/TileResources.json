@@ -207,6 +207,21 @@
 		"majorDepositAmount": {"sparse": 2, "default": 4, "abundant": 4},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
+	{
+		"name": "Firestones",
+		"resourceType": "Strategic",
+		"revealedBy": "Iron Working",
+		"unique to": "Western Icelands",
+		"terrainsCanBeFoundOn": ["Tundra","Snow"],
+		"production": 1,
+		"improvedBy": ["Deep Drill"],
+		"improvementStats": {"production": 1},
+		"uniques": [		
+			"Minor deposits generated with weight [40] <in [Featureless] [Tundra] tiles>",
+			"Minor deposits generated with weight [40] <in [Featureless] [Snow] tiles>"],
+		"majorDepositAmount": {"sparse": 2, "default": 2, "abundant": 2},
+		"minorDepositAmount": {"sparse": 2, "default": 2, "abundant": 2}
+	},
 	
 	// Luxury resources
 	{
