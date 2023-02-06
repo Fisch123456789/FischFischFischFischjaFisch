@@ -167,4 +167,32 @@
 		"cities": ["Atil Town","Mascobar","Elite","Dragon Cliff","Southern Hills","North Shadow Isles","Easter","Tan Hica","El Capinou","Tas Tretar"],
         "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
+		{
+		"name": "Western Icelands",
+		"leaderName": "Terakur Fireclaw",
+		"adjective": ["Polarbear"],
+		"preferredVictoryType": "Scientific",
+			    "startBias": ["Tundra"],
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "My Firy Claws are made for your Raw meat. I will not rest till your filthy folk iss outta my vision.",
+		"attacked": "Hear of drugs? You should stop abusing them, thats not a game you know.Hahaha",
+		"defeated": "Even the mightiest fall by the time, nothing lasts eternally, well maybe I'm wrong, well I dont know.",
+		"introduction": "The polar bear tribe welcomes you with warm hugs my friend!",
+		"neutralHello": "Take a seat, Meals just gonna be ready, so we can have a delicios dinner",
+		"hateHello": "Got anything new? You know im Hungry. You look like a little snakc. Haha!",
+		"tradeRequest": "Do I not look like a business man??(very aggressive)",
+
+        "outerColor": [ 28,51,119],
+        "innerColor": [255,255,255],
+
+        "favoredReligion": "Christianity",
+		"uniqueName": "Ice Slide",
+		"uniques": ["All units move through Ice and Tundra Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
+		"cities": ["Atil Town","Mascobar","Elite","Dragon Cliff","Southern Hills","North Shadow Isles","Easter","Tan Hica","El Capinou","Tas Tretar"],
+        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+	},
+
   ]
