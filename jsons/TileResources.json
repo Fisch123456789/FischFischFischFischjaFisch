@@ -210,7 +210,7 @@
 	{
 		"name": "Firestones",
 		"resourceType": "Strategic",
-		"revealedBy": "Iron Working",
+		"revealedBy": "Firestones",
 		"uniqueTo": "Western Icelands",
 		"terrainsCanBeFoundOn": ["Tundra","Snow"],
 		"production": 1,
