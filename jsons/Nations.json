@@ -190,7 +190,7 @@
 
         "favoredReligion": "Christianity",
 		"uniqueName": "Ice Slide",
-		"uniques": ["All units move through Snow and Tundra Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
+		"uniques": ["Starts with [Firestones]"],
 		"cities": ["Atil Town","Mascobar","Elite","Dragon Cliff","Southern Hills","North Shadow Isles","Easter","Tan Hica","El Capinou","Tas Tretar"],
         "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
