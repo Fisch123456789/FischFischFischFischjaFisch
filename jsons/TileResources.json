@@ -15,9 +15,9 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Snow","Tundra"],
 		"improvedBy": ["Deep Drill","Mine"]
-		"improvementStats": {"production": 2},
-		"uniques": ["Generated on every [3] tiles <in [Featureless] [Snow] tiles>",
-					"Generated on every [3] tiles <in [Featureless] [Tundra] tiles>"]
+		"improvementStats": {"production": 0},
+		"uniques": ["Generated on every [4] tiles <in [Featureless] [Snow] tiles>",
+					"Generated on every [4] tiles <in [Featureless] [Tundra] tiles>"]
 	},
 	{
 		"name": "Sheep",
@@ -221,13 +221,13 @@
 		"resourceType": "Strategic",
 		"revealedBy": "Agriculture",
 		"terrainsCanBeFoundOn": ["Ocean"],
-		"production": 1,
-		"improvedBy": ["Deep Drill"],
-		"improvementStats": {"production": 1},
+		"production": 0,
+		"improvedBy": [""],
+		"improvementStats": {"production": 0},
 		"uniques": [	"Minor deposits generated with weight [0] <in [Featureless] [Ocean] tiles>"	
 ],
-		"majorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1},
-		"minorDepositAmount": {"sparse": 1, "default": 1, "abundant": 1}
+		"majorDepositAmount": {"sparse": 0, "default": 0, "abundant": 0},
+		"minorDepositAmount": {"sparse": 0, "default": 0, "abundant": 0}
 	},
 	
 	// Luxury resources
