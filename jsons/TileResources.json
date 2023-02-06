@@ -10,6 +10,15 @@
 		"uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>",
 					"Generated on every [22] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"]
 	},
+		{
+		"name": "Ressources",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Snow","Tundra"],
+		"improvement": "Deep Drill",
+		"improvementStats": {"production": 2},
+		"uniques": ["Generated on every [3] tiles <in [Featureless] [Snow] tiles>",
+					"Generated on every [3] tiles <in [Featureless] [Tundra] tiles>"]
+	},
 	{
 		"name": "Sheep",
 		"resourceType": "Bonus",
