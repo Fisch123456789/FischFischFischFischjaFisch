@@ -211,7 +211,7 @@
 		"name": "Firestones",
 		"resourceType": "Strategic",
 		"revealedBy": "Iron Working",
-		"unique to": "Western Icelands",
+		"uniqueTo": "Western Icelands",
 		"terrainsCanBeFoundOn": ["Tundra","Snow"],
 		"production": 1,
 		"improvedBy": ["Deep Drill"],
