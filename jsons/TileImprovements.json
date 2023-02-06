@@ -74,6 +74,7 @@
 "terrainsCanBeBuiltOn": ["Snow","Tundra"],
   "uniqueTo": "Western Icelands",
   "techRequired": "Agriculture",
+  "shortcutKey": "F"
 "production":2,
   "Food":2,
 "uniques": ["[+1 Production] <after discovering [Machinery]>","[+1 Production] <after discovering [Metallurgy]>",
