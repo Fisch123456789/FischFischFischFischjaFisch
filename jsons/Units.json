@@ -204,7 +204,7 @@
 		"uniqueTo": "Western Icelands",
 		"replaces": "Longswordman",
 		"movement": 4,
-		"strength": 25,
+		"strength": 20,
 		"cost": 150,
 		"requiredTech": "Armory",
 		"obsoleteTech": "Gunpowder",
