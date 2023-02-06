@@ -211,7 +211,6 @@
 		"name": "Firestones",
 		"resourceType": "Strategic",
 		"revealedBy": "Firestones",
-		"uniqueTo": "Western Icelands",
 		"terrainsCanBeFoundOn": ["Tundra","Snow"],
 		"production": 1,
 		"improvedBy": ["Deep Drill"],
