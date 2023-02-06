@@ -73,9 +73,10 @@
  {"name": "Deep Drill",
 "terrainsCanBeBuiltOn": ["Snow","Tundra"],
   "uniqueTo": "Western Icelands",
+  "techRequired": "Agriculture",
 "production":2,
   "Food":2,
-"uniques": ["[+1 Production] <after discovering [Machinery]>", "[+1 Production] <after discovering [Metallurgy]>",
+"uniques": ["[+1 Production] <after discovering [Machinery]>",  "Can only be built to improve a resource","[+1 Production] <after discovering [Metallurgy]>",
             "[+2 Food] <after discovering [Fertilizer]>","Provides [1] [Energy Stones]"]
   }
 
