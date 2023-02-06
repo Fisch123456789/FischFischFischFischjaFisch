@@ -190,7 +190,7 @@
 
         "favoredReligion": "Christianity",
 		"uniqueName": "Ice Slide",
-		"uniques": ["Starts with [Firestones]"],
+		"uniques": [""],
 		"cities": ["Atil Town","Mascobar","Elite","Dragon Cliff","Southern Hills","North Shadow Isles","Easter","Tan Hica","El Capinou","Tas Tretar"],
         "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
