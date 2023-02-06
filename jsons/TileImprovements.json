@@ -70,5 +70,13 @@
 		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Does not need removal of [Forest]", "Pillaging this improvement yields approximately [+10 Gold]", "Will not be displayed in Civilopedia"],
 		"shortcutKey": "P"
 	},
+ {"name": "Deep Drill",
+"terrainsCanBeBuiltOn": ["Ice","Tundra"],
+  "uniqueTo": "Western Icelands",
+"production":2,
+  "Food":2,
+"uniques": ["[+1 Production] <after discovering [Machinery]>", "[+1 Production] <after discovering [Metallurgy]>",
+            "[+2 Food] <after discovering [Fertilizer]>"]
+  }
 
 ]
