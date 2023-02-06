@@ -1,5 +1,8 @@
-[{
+[
+	{
 				"name": "Firestones",
-        "uniqueTo": "Western Icelands",
+        			"uniqueTo": "Western Icelands",
 				"row": 5,
-				"quote": "'Fire is the energy we need to survive the cold. Oh i felt pretty smart saying this haha' - Terakur Fireclaw",			}]
+				"quote": "'Fire is the energy we need to survive the cold. Oh i felt pretty smart saying this haha' - Terakur Fireclaw"
+},
+]
