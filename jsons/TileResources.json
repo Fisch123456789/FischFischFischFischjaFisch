@@ -222,7 +222,7 @@
 		"revealedBy": "Agriculture",
 		"terrainsCanBeFoundOn": ["Ocean"],
 		"production": 0,
-		"improvedBy": [""],
+		"improvedBy": ["Mine","Deep Drill"],
 		"improvementStats": {"production": 0},
 		"uniques": [	"Minor deposits generated with weight [0] <in [Featureless] [Ocean] tiles>"	
 ],
