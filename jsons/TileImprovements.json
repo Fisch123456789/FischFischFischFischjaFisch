@@ -71,7 +71,7 @@
 		"shortcutKey": "P"
 	},
  {"name": "Deep Drill",
-"terrainsCanBeBuiltOn": ["Ice","Tundra"],
+"terrainsCanBeBuiltOn": ["Snow","Tundra"],
   "uniqueTo": "Western Icelands",
 "production":2,
   "Food":2,
