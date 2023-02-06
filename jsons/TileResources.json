@@ -16,8 +16,8 @@
 		"terrainsCanBeFoundOn": ["Snow","Tundra"],
 		"improvedBy": ["Deep Drill","Mine"]
 		"improvementStats": {"production": 0},
-		"uniques": ["Generated on every [4] tiles <in [Featureless] [Snow] tiles>",
-					"Generated on every [4] tiles <in [Featureless] [Tundra] tiles>"]
+		"uniques": ["Generated on every [5] tiles <in [Snow] tiles>",
+					"Generated on every [7] tiles <in [Featureless] [Tundra] tiles>"]
 	},
 	{
 		"name": "Sheep",
