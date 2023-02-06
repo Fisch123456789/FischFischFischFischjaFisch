@@ -208,9 +208,9 @@
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
 	{
-		"name": "Firestones",
+		"name": "Energy Stones",
 		"resourceType": "Strategic",
-		"revealedBy": "Firestones",
+		"revealedBy": "Agriculture",
 		"terrainsCanBeFoundOn": ["Tundra","Snow"],
 		"production": 1,
 		"improvedBy": ["Deep Drill"],
