@@ -198,5 +198,19 @@
 		"obsoleteTech": "Gunpowder",
 		"attackSound": "metalhit"
 	},
+{
+		"name": "Fireclaws",
+		"unitType": "Melee",
+		"uniqueTo": "Western Icelands",
+		"replaces": "Longswordman",
+		"movement": 4,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Armory",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+		"promotions": ["Fireclaw"],
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "horse"},
 
 ]
