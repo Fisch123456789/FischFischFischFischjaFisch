@@ -115,10 +115,11 @@
 		"name": "Fire camp",
 		"culture": 2,
 		"uniqueTo": "Western Icelands",
-		"cost": 10,
+		"replaces": "Monument",
+		"cost": 30,
 		"hurryCostModifier": 40,
 		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured", "<for units with [Fireclaw]> New [Military] units start with [15] Experience [in this city]"]
+		"uniques": ["Destroyed when the city is captured",  "New [{Melee} {Land}] units start with [15] Experience [in this city]"]
 	},
 	
 
