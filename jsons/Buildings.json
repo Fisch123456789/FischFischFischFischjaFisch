@@ -111,5 +111,17 @@
 		"requiredTech": "Guilds"
 		"quote": "'In unity our Economy is growing, in unity our Folk is strong, In unity we are unbeatable, In unity we rule the world, with this tradde union noone's ever gonna stop us!' - Artos Baernee during the Union Speech"
 	},
+{
+		"name": "Fire camp",
+		"culture": 2,
+		"uniqueTo": "Western Icelands",
+		"cost": 10,
+		"hurryCostModifier": 40,
+		"maintenance": 0,
+		"uniques": ["Destroyed when the city is captured", "<for units with [Fireclaws]> New [Military] units start with [15] Experience [in this city]"]
+	},
+	
+
+
 	
 ]
