@@ -118,7 +118,7 @@
 		"cost": 10,
 		"hurryCostModifier": 40,
 		"maintenance": 0,
-		"uniques": ["Destroyed when the city is captured", "<for units with [Fireclaws]> New [Military] units start with [15] Experience [in this city]"]
+		"uniques": ["Destroyed when the city is captured", "<for units with [Fireclaw]> New [Military] units start with [15] Experience [in this city]"]
 	},
 	
 
