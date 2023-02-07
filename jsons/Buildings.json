@@ -121,6 +121,16 @@
 		"maintenance": 0,
 		"uniques": ["Destroyed when the city is captured",  "New [{Melee} {Land}] units start with [15] Experience [in this city]"]
 	},
+{
+		"name": "Powerhouse",
+		"production": 7,
+		"percentStatBonus": {"production": 25},
+		"uniqueTo": "Western Icelands",
+		"requiredBuilding": "Factory",
+		"maintenance": 3,
+		"requiredTech": "Computers",
+		"uniques": ["Must be next to [Tundra]", "Only available <in cities without a [Nuclear Plant]>", "Only available <in cities without a [Solar Plant]>"]
+	},
 	
 
 
