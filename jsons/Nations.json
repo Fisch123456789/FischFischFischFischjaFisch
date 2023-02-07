@@ -189,9 +189,9 @@
         "innerColor": [255,255,255],
 
         "favoredReligion": "Christianity",
-		"uniqueName": "Ice Slide",
-		"uniques": [""],
-		"cities": ["Atil Town","Mascobar","Elite","Dragon Cliff","Southern Hills","North Shadow Isles","Easter","Tan Hica","El Capinou","Tas Tretar"],
+		"uniqueName": "Surviving through the cold",
+		"uniques": ["[+1 Food] from [Snow] tiles [in all city]","[+1 Food] from [Tundra] tiles [in all city]"],
+		"cities": ["Camp Fire","Snacking","Elite","Dragon Cliff","Southern Hills","North Shadow Isles","Easter","Tan Hica","El Capinou","Tas Tretar"],
         "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
 
