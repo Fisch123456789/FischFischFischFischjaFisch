@@ -222,6 +222,19 @@
 		"uniques": ["Can start an [8]-turn golden age", "[+15]% Strength bonus for [Military] units within [3] tiles", "Can construct [Citadel]",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 },
+{
+		"name": "Husky Slide",
+		"unitType": "Mounted",
+		"uniqueTo": "The Icelands",
+		"replaces": "Cavalry",
+		"movement": 4,
+		"strength": 28,
+		"rangedStrength": 32,
+		"requiredTech": "Military Science",
+		"obsoleteTech": "Combustion",
+		"promotions":["cruelty"],
+		"upgradesTo": "Landship",
+		"attackSound": "machinegun"},
 
 
 ]
