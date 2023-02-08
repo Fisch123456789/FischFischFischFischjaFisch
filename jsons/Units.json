@@ -229,6 +229,7 @@
 		"replaces": "Cavalry",
 		"movement": 4,
 		"strength": 28,
+		"range": 2,
 		"rangedStrength": 32,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
