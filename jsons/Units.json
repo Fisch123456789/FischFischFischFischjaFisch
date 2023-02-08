@@ -228,6 +228,7 @@
 		"uniqueTo": "The Icelands",
 		"replaces": "Cavalry",
 		"movement": 4,
+	"cost": 245,
 		"strength": 28,
 		"range": 2,
 		"rangedStrength": 32,
