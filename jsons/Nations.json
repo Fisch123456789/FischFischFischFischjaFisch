@@ -198,7 +198,7 @@
 		"name": "The Icelands",
 		"leaderName": "Mohakan",
 		"adjective": ["Eskimo"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 			    "startBias": ["Snow"],
 
         "startIntroPart1": "",
