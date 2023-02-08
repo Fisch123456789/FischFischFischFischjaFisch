@@ -253,6 +253,21 @@
 		"attackSound": "metalhit",
 		"requiredResource": "Iron",	
 	},
+{
+		"name": "Satsuma Bowman",
+		"unitType": "Archery",
+		"uniqueTo": "Dragon Cliffs",
+		"movement": 2,
+		"cost": 75,
+		"strength": 9,
+		"rangedStrength": 14,
+		"requiredTech": "Engineering",
+		"obsoleteTech": "Machinery",
+		"promotions":["Satsuma's Eye"],
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow",
+	},
+
 
 
 ]
