@@ -171,19 +171,19 @@
 		"name": "Western Icelands",
 		"leaderName": "Terakur Fireclaw",
 		"adjective": ["Polarbear"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 			    "startBias": ["Tundra"],
 
         "startIntroPart1": "",
         "startIntroPart2": "",
 
         "declaringWar": "My Firy Claws are made for your Raw meat. I will not rest till your filthy folk iss outta my vision.",
-		"attacked": "Hear of drugs? You should stop abusing them, thats not a game you know.Hahaha",
-		"defeated": "Even the mightiest fall by the time, nothing lasts eternally, well maybe I'm wrong, well I dont know.",
-		"introduction": "The polar bear tribe welcomes you with warm hugs my friend!",
+		"attacked": "Heard of drugs? You should stop abusing them, thats not a game you know.Hahaha",
+		"defeated": "Even the mightiest fall by the time, nothing lasts eternally, well maybe I'm wrong, well I dont know. Grumbles.",
+		"introduction": "The polar bear tribe welcomes you with warm hugs my friend! Well dont know if its actually THAT warm. Hehe",
 		"neutralHello": "Take a seat, Meals just gonna be ready, so we can have a delicios dinner",
-		"hateHello": "Got anything new? You know im Hungry. You look like a little snakc. Haha!",
-		"tradeRequest": "Do I not look like a business man??(very aggressive)",
+		"hateHello": "Got anything new? You know im Hungry. You look like a little snack. Haha!",
+		"tradeRequest": "Dont tell me I dont look like a business man!!(very aggressive)",
 
         "outerColor": [ 106,192,255],
         "innerColor": [185,250,247],
@@ -194,5 +194,34 @@
 		"cities": ["Camp Fire","Snacking","Elite","Dragon Cliff","Southern Hills","North Shadow Isles","Easter","Tan Hica","El Capinou","Tas Tretar"],
         "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
+		{
+		"name": "The Icelands",
+		"leaderName": "Mohakan",
+		"adjective": ["Eskimo"],
+		"preferredVictoryType": "Scientific",
+			    "startBias": ["Snow"],
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Raw meat is essential in the cold, we gonna take it from your soldiers.",
+		"attacked": "I will kill all of you till your filthy bloodline is done",
+		"defeated": "Lucky Bastard!",
+		"introduction": "I hope you all will suffer in the cold",
+		"neutralHello": "Wanna get killed? Make it fast I dont have all day time!",
+		"hateHello": "Im gonna kill you!!",
+		"tradeRequest": "If you dont cooparate you know, we do it the rough way.",
+
+        "outerColor": [ 0,0,0],
+        "innerColor": [255,29,29],
+
+        "favoredReligion": "Christianity",
+		"uniqueName": "Warring Kingdom",
+		"uniques": ["<when at war> [+20]% Production when constructing [Land] units [in all city]"],
+		"cities": ["Camp Fire","Snacking","Elite","Dragon Cliff","Southern Hills","North Shadow Isles","Easter","Tan Hica","El Capinou","Tas Tretar"],
+        "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
+	},
+
+  ]
 
   ]
