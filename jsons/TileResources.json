@@ -11,7 +11,7 @@
 					"Generated on every [22] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"]
 	},
 		{
-		"name": "Ressources",
+		"name": "Mythic Energy",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Snow","Tundra"],
 		"improvedBy": ["Deep Drill","Mine"]
