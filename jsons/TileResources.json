@@ -219,7 +219,6 @@
 	{
 		"name": "Energy Stones",
 		"resourceType": "Strategic",
-		"revealedBy": "Agriculture",
 		"production": 0,
 		"improvedBy": ["Mine","Deep Drill"],
 		"improvementStats": {"production": 0},
