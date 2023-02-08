@@ -118,6 +118,11 @@
 		"name": "cruelty", 
 		"uniques": ["can move after attacking","[+15]% Strength <when below [100] HP>", "[+15]% Strength when stacked with [Great General]"]
 	},
+{
+"name": "Dragonstrength"
+"uniques": ["[+20]% Strength"]
+
+},
 
 
 
