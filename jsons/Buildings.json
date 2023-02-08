@@ -140,6 +140,17 @@
 		"requiredTech": "Pottery",
 		"uniques": ["[+2 Food] from [Snow] tiles [in this city]", "[+1 Gold] from [Snow] tiles [in this city]", "[+1 Food] from [Snow] tiles [in this city]<starting from the [Medieval era]>"]
 	},
+{
+		"name": "Martial Arts School",
+		"uniqueTo": "Dragon Cliffs",
+		"replaces": "Armory",
+		"requiredBuilding": "Barracks",
+		"maintenance": 1,
+		"culture":2,
+		"happiness":1,
+		"requiredTech": "Steel",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+	},
 	
 
 
