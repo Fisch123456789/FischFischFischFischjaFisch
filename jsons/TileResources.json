@@ -14,7 +14,7 @@
 		"name": "Mythic Energy",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Snow","Tundra"],
-		"improvedBy": ["Deep Drill","Mine"]
+		"improvedBy": ["Deep Drill","Mine","Ataloah"]
 		"improvementStats": {"production": 0},
 		"uniques": ["Generated on every [4] tiles <in [Snow] tiles>",
 					"Generated on every [4] tiles <in [Featureless] [Tundra] tiles>"]
