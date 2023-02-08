@@ -128,6 +128,11 @@
 "uniques": ["[+20]% Strength <vs [armored] units>"]
 
 },
+{
+"name": "Satsuma's Eye",
+	"uniques": ["[+1] Sight"]
+	
+},
 
 
 
