@@ -123,6 +123,11 @@
 "uniques": ["[+20]% Strength", "[+1] Movement"]
 
 },
+{
+"name": "Dragonbreath"
+"uniques": ["[+20]% Strength <vs [armored] units">]
+
+},
 
 
 
