@@ -223,7 +223,7 @@
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 },
 {
-		"name": "Husky Slide",
+		"name": "Husky Sled",
 		"unitType": "Mounted",
 		"uniqueTo": "The Icelands",
 		"replaces": "Cavalry",
@@ -234,7 +234,9 @@
 		"obsoleteTech": "Combustion",
 		"promotions":["cruelty"],
 		"upgradesTo": "Landship",
-		"attackSound": "machinegun"},
+		"attackSound": "machinegun",
+		"uniques": ["Transfer Movement to [Great General]"], 	
+	},
 
 
 ]
