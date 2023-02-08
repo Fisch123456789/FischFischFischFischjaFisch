@@ -158,8 +158,8 @@
 		"hateHello": "Ai",
 		"tradeRequest": "Think twice",
 
-        "outerColor": [ 28,51,119],
-        "innerColor": [255,255,255],
+        "outerColor": [ 60,99,37],
+        "innerColor": [100,255,5],
 
         "favoredReligion": "Christianity",
 		"uniqueName": "Spirit of Hope",
