@@ -109,6 +109,11 @@
 	],
 
 },
+{
+		"name": "Sliding", 
+		"uniques": ["Double movement in [Snow]",
+			"Double movement in [Tundra]"]
+	}
 
 
 
