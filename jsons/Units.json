@@ -258,6 +258,7 @@
 		"unitType": "Archery",
 		"uniqueTo": "Dragon Cliffs",
 		"movement": 2,
+                "replaces": "Composite Bowman",
 		"cost": 75,
 		"strength": 9,
 		"rangedStrength": 14,
