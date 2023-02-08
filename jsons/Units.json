@@ -237,7 +237,21 @@
 		"promotions":["cruelty"],
 		"upgradesTo": "Landship",
 		"attackSound": "machinegun",
-		"uniques": ["Transfer Movement to [Great General]"], 	
+		"uniques": ["Transfer Movement to [Great General]", "No defensive terrain bonus"], 	
+	},
+{
+		"name": "Dragon Fighter",
+		"unitType": "Melee",
+		"uniqueTo": "Dragon Cliffs",
+		"movement": 3,
+		"cost": 180,
+		"strength": 24,
+		"requiredTech": "Metal Casting",
+		"obsoleteTech": "Rifling",
+		"promotions":["Dragonstrength", "Dragonbreath"],
+		"upgradesTo": "Rifleman",
+		"attackSound": "metalhit",
+		"requiredResource": "Iron",	
 	},
 
 
