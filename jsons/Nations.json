@@ -217,7 +217,7 @@
 
         "favoredReligion": "Christianity",
 		"uniqueName": "Warring Kingdom",
-		"uniques": ["<when at war> [+20]% Production when constructing [Land] units [in all city]"],
+		"uniques": ["<when at war> [+20]% Production when constructing [Land] units [in all city]", "[non-air] units gain the [Sliding] promotion"],
 		"cities": ["Camp Fire","Snacking","Elite","Dragon Cliff","Southern Hills","North Shadow Isles","Easter","Tan Hica","El Capinou","Tas Tretar"],
         "spyNames": ["Cousin", "Felix", "Dennis", "Edward", "Prof. Rex", "Eliza", "Mary", "Virginia", "Scarlett", "Barbara"]
 	},
