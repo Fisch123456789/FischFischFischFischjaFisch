@@ -120,12 +120,12 @@
 	},
 {
 "name": "Dragonstrength"
-"uniques": ["[+20]% Strength", "[+1] Movement"]
+"uniques": ["[+20]% Strength", "[+1] Movement", "All tiles cost 1 movement","[+35]% Strength <when defending> <vs [Air] units>"]
 
 },
 {
 "name": "Dragonbreath"
-"uniques": ["[+20]% Strength <vs [armored] units">]
+"uniques": ["[+20]% Strength <vs [armored] units>"]
 
 },
 
