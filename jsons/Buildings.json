@@ -131,6 +131,15 @@
 		"requiredTech": "Computers",
 		"uniques": ["Must be next to [Tundra]", "Only available <in cities without a [Nuclear Plant]>", "Only available <in cities without a [Solar Plant]>"]
 	},
+{
+		"name": "Igloo",
+		"uniqueTo": "The Icelands",
+		"replaces": "Granary",
+		"maintenance": 0,
+		"food":2,
+		"requiredTech": "Pottery",
+		"uniques": ["[+2 Food] from [Snow] tiles [in this cities]" "[+1 Gold] from [Snow] tiles [in this cities]","[+1 Food] from [Snow] tiles [in this cities]<starting from the [Medieval era]>"]
+	},
 	
 
 
