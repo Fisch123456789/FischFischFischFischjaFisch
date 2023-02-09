@@ -272,10 +272,10 @@
 		"rangedStrength": 60,
 		"range": 12,
 		"interceptRange": 12,
-	"requiredResource": "Oil",
+	"requiredResource": ["Oil","Aluminium"],
 		"uniques": ["[100]% chance to intercept air attacks", "[+100]% Strength <vs [Bomber] units>", "[+100]% Strength <vs [Helicopter] units>","[+100]% Strength <vs [Water] units>",
 			   "[+33]% Strength <when attacking>"],
-		"cost": 425,
+		"cost": 475,
 		"requiredTech": "Computers",
 		"attackSound": "jetgun"
 	},
