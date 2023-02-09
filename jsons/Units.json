@@ -240,7 +240,7 @@
 		"unitType": "Sword",
 		"uniqueTo": "Dragon Cliffs",
 		"movement": 3,
-		"cost": 180,
+		"cost": 230,
 		"strength": 24,
 		"requiredTech": "Metal Casting",
 		"obsoleteTech": "Rifling",
