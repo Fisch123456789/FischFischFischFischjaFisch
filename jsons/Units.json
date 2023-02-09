@@ -264,6 +264,21 @@
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow",
 	},
+{
+		"name": "Hammerhead Shark",
+    "uniqueTo": "Inselstaat",
+		"unitType": "Fighter",
+		"strength": 60,
+		"rangedStrength": 60,
+		"range": 12,
+		"interceptRange": 12,
+	"requiredResource": "Oil",
+		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>","[+150]% Strength <vs [Water] units>",
+			   "[+33]% Strength <when attacking>"],
+		"cost": 425,
+		"requiredTech": "Computers",
+		"attackSound": "jetgun"
+	},
 
 
 
