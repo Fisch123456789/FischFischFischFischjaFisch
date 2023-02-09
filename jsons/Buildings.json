@@ -95,6 +95,7 @@
 		"cost": 70,
 		"science": 2,
 		"hurryCostModifier": 40,
+		"requiredTech": "Bronze Working",
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
