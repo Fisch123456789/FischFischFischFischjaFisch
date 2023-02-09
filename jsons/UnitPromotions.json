@@ -257,7 +257,7 @@
 	},
 	{
 		"name": "Anti Tank Gear II",
-		"prerequisites": ["Ambush I"],
+		"prerequisites": ["Anti Tank Gear"],
 		"uniques": ["[+33]% Strength <vs [Armored] units>"],
 		"unitTypes": ["Execute"],
         "column": 25,
