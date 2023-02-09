@@ -273,7 +273,7 @@
 		"range": 12,
 		"interceptRange": 12,
 	"requiredResource": "Oil",
-		"uniques": ["[100]% chance to intercept air attacks", "[+150]% Strength <vs [Bomber] units>", "[+150]% Strength <vs [Helicopter] units>","[+150]% Strength <vs [Water] units>",
+		"uniques": ["[100]% chance to intercept air attacks", "[+100]% Strength <vs [Bomber] units>", "[+100]% Strength <vs [Helicopter] units>","[+100]% Strength <vs [Water] units>",
 			   "[+33]% Strength <when attacking>"],
 		"cost": 425,
 		"requiredTech": "Computers",
