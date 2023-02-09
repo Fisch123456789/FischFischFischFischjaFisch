@@ -1,19 +1,16 @@
 [
-  {
-  "name": "Assasine",
-        "movementType": "Land"
-  }
+  
   {
   "name": "Mage",
         "movementType": "Land"
-			"uniques": ["Unbuildable","[+75]% Strength <during the [Classical era]>",
+			"uniques": ["Unbuildable","[+100]% Strength <during the [Classical era]>",
 					"[+150]% Strength <during the [Medieval era]>",
-					"[+300]% Strength <during the [Renaissance era]>",
-					"[+600]% Strength <during the [Industrial era]>",
-					"[+900]% Strength <during the [Modern era]>",
+					"[+200]% Strength <during the [Renaissance era]>",
+					"[+400]% Strength <during the [Industrial era]>",
+					"[+1100]% Strength <during the [Modern era]>",
 					"[+1600]% Strength <during the [Atomic era]>",
-					"[+1700]% Strength <during the [Information era]>",
-					"[+1800]% Strength <during the [Future era]>",
+					"[+2000]% Strength <during the [Information era]>",
+					"[+2400]% Strength <during the [Future era]>",
 					"[+1] Range <during the [Atomic era]>",
 			    		"[+1] Range <during the [Information era]>",
 			   		"[+1] Range <during the [Future era]>"
