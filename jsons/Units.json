@@ -143,7 +143,7 @@
 		"requiredTech": "Gunpowder",
 		"upgradesTo": "Special Agent Force",
 		"promotions": ["Mobility"],
-		"uniques": ["Can move after attacking","Never appears as a Barbarian unit","[-300]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit","[-300]% Strength <vs cities> <when attacking>"],
 		"attackSound": "metalhit"},
 {
 		"name": "Special Agent Force",
@@ -157,7 +157,7 @@
 		"requiredBuilding": "Assasin Hood",
 		"requiredTech": "Radar",
 		"promotions": ["Elite Force"],
-		"uniques": ["Can move after attacking","Never appears as a Barbarian unit","[-300]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Never appears as a Barbarian unit","[-300]% Strength <vs cities> <when attacking>"],
 		"attackSound": "machinegun"},
 {
 		"name": "Rotten Blood"
