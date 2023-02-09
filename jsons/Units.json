@@ -86,10 +86,9 @@
 {
 		"name": "Lord Argarok",
 		"unitType": "Shadow Knight",
-	"movement": 5
+		"movement": 5
 		"strength":6
-		"promotions":["Morale"],
-"uniques": ["Unbuildable"]
+		"uniques": ["Unbuildable"]
 		
 	},
 {
@@ -98,7 +97,6 @@
 		"uniques": ["Unbuildable"],
 		"movement": 2
 		"strength":5
-		"promotions":["Morale"]
 	},
 {
 		"name": "Lord Artruo",
@@ -107,8 +105,8 @@
 					
 		"movement": 2
 		"strength":4
-		"promotions":["Morale"]
-		"range": 2,		"rangedStrength": 5,
+		"range": 2,		
+		"rangedStrength": 5,
 		"interceptRange":2
 	},
 {
@@ -117,7 +115,6 @@
 		"uniques": ["Unbuildable"],
 		"movement": 3
 		"strength":6
-		"promotions":["Morale"]
 	},
 {
 		"name": "Lady Liara",
@@ -125,7 +122,6 @@
 		"uniques": ["Unbuildable"],
 		"movement": 3
 		"strength":5
-		"promotions":["Morale"]
 		"range": 2,
 		"rangedStrength": 6,
 					
