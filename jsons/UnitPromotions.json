@@ -29,7 +29,6 @@
     },
 {
 		"name": "Attack I",
-		"prerequisites": ["Revivication III"],
 		"uniques": ["[+100%]Strength"],
 		"unitTypes": ["Mage","Leader","Wizard","Battle Queen", "Shadow Knight"],
     },
@@ -48,7 +47,6 @@
 
 {
 		"name": "Manaflow"
-		"prerequisites": ["Revivication III"],
 		"uniques":["Unit will heal every turn, even if it performs an action", "[+50%]Strength"],
 		"unitTypes": ["Mage"],
 },
@@ -66,7 +64,6 @@
 },
 {
 		"name": "Floating"
-		"prerequisites": ["Revivication III"],
 		"uniques":["+1 Movement","[+50%]Strength"],
 		"unitTypes": ["Mage"],
 },
@@ -78,7 +75,6 @@
 },
 {
 		"name": "Poke"
-		"prerequisites": ["Revivication III"],
 		"uniques":["[+100%]Strength","+1 Range"],
 		"unitTypes": ["Mage"],
 },
