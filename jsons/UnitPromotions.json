@@ -75,7 +75,7 @@
 },
 {
 		"name": "Poke"
-		"uniques":["[+100%]Strength","+1 Range"],
+		"uniques":["[+100%]Strength","[+1] Range"],
 		"unitTypes": ["Mage"],
 },
 {
@@ -87,7 +87,7 @@
 {
 		"name": "Poke III"
 		"prerequisites": ["Poke II"],
-		"uniques":["[+100%]Strength","+1 Range"],
+		"uniques":["[+100%]Strength","[+1] Range"],
 		"unitTypes": ["Mage"],
 },
 {
