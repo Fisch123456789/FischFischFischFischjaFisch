@@ -11,83 +11,83 @@
 }
 {
 		"name": "Revivication",
-		"uniques": ["[+25%]Strength"],
+		"uniques": ["[+25]%Strength"],
 		"unitTypes": ["Leader"],
        
     },
 {
 		"name": "Revivication II",
 		"prerequisites": ["Revivication"],
-		"uniques": ["[+25%]Strength"],
+		"uniques": ["[+25]%Strength"],
 		"unitTypes": ["Leader"],
     },
 {
 		"name": "Revivication III",
 		"prerequisites": ["Revivication II"],
-		"uniques": ["[+50%]Strength"],
+		"uniques": ["[+50]%Strength"],
 		"unitTypes": ["Leader"],
     },
 {
 		"name": "Attack I",
-		"uniques": ["[+100%]Strength"],
+		"uniques": ["[+100]%Strength"],
 		"unitTypes": ["Mage","Leader","Wizard","Battle Queen", "Shadow Knight"],
     },
 {
 		"name": "Attack II",
 		"prerequisites": ["Attack I"],
-		"uniques": ["[+100%]Strength"],
+		"uniques": ["[+100]%Strength"],
 		"unitTypes": ["Mage","Leader","Wizard","Battle Queen", "Shadow Knight"],
     },
 {
 		"name": "Attack III",
 		"prerequisites": ["Attack II"],
-		"uniques": ["[+100%]Strength","[1] additional attacks per turn"],
+		"uniques": ["[+100]%Strength","[1] additional attacks per turn"],
 		"unitTypes": ["Mage","Leader","Wizard","Battle Queen", "Shadow Knight"],
     },
 
 {
 		"name": "Manaflow"
-		"uniques":["Unit will heal every turn, even if it performs an action", "[+50%]Strength"],
+		"uniques":["Unit will heal every turn, even if it performs an action", "[+50]%Strength"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Manaflow II"
 		"prerequisites": ["Manaflow"],
-		"uniques":["All healing effects doubled", "[+50%]Strength"],
+		"uniques":["All healing effects doubled", "[+50]%Strength"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Manaflow III"
 		"prerequisites": ["Manaflow II"],
-		"uniques":["Heals [25] damage if it kills a unit", "[+50%]Strength"],
+		"uniques":["Heals [25] damage if it kills a unit", "[+50]%Strength"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Floating"
-		"uniques":["+1 Movement","[+50%]Strength"],
+		"uniques":["+1 Movement","[+50]%Strength"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Floating II"
 		"prerequisites": ["Floating"],
-		"uniques":["[+100%]Strength","Ignores terrain cost"],
+		"uniques":["[+100]%Strength","Ignores terrain cost"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Poke"
-		"uniques":["[+100%]Strength","[+1] Range"],
+		"uniques":["[+100]%Strength","[+1] Range"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Poke II"
 		"prerequisites": ["Poke"],
-		"uniques":["[+100%]Strength", "Ranged attacks may be performed over obstacles"],
+		"uniques":["[+100]%Strength", "Ranged attacks may be performed over obstacles"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Poke III"
 		"prerequisites": ["Poke II"],
-		"uniques":["[+100%]Strength","[+1] Range"],
+		"uniques":["[+100]%Strength","[+1] Range"],
 		"unitTypes": ["Mage"],
 },
 {
