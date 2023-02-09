@@ -12,38 +12,38 @@
 {
 		"name": "Revivication",
 		"uniques": ["[+25%]Strength"],
-		"unitTypes": ["Mage"],
+		"unitTypes": ["Leader"],
        
     },
 {
 		"name": "Revivication II",
 		"prerequisites": ["Revivication"],
 		"uniques": ["[+25%]Strength"],
-		"unitTypes": ["Mage"],
+		"unitTypes": ["Leader"],
     },
 {
 		"name": "Revivication III",
 		"prerequisites": ["Revivication II"],
 		"uniques": ["[+50%]Strength"],
-		"unitTypes": ["Mage"],
+		"unitTypes": ["Leader"],
     },
 {
 		"name": "Attack I",
 		"prerequisites": ["Revivication III"],
 		"uniques": ["[+100%]Strength"],
-		"unitTypes": ["Mage"],
+		"unitTypes": ["Mage","Leader","Wizard","Battle Queen", "Shadow Knight"],
     },
 {
 		"name": "Attack II",
 		"prerequisites": ["Attack I"],
 		"uniques": ["[+100%]Strength"],
-		"unitTypes": ["Mage"],
+		"unitTypes": ["Mage","Leader","Wizard","Battle Queen", "Shadow Knight"],
     },
 {
 		"name": "Attack III",
 		"prerequisites": ["Attack II"],
 		"uniques": ["[+100%]Strength","[1] additional attacks per turn"],
-		"unitTypes": ["Mage"],
+		"unitTypes": ["Mage","Leader","Wizard","Battle Queen", "Shadow Knight"],
     },
 
 {
@@ -96,7 +96,7 @@
 },
 {
 		"name": "Elite Force"
-		"uniques":["May withdraw before melee ([100]%)","Unable to capture cities","May Paradrop up to [7] tiles from inside friendly territory","All tiles cost 1 movement",
+		"uniques":["May withdraw before melee ([100]%)","Unable to capture cities","May Paradrop up to [7] tiles from inside friendly territory","Ignores terrain cost",
 		"[0] Movement point cost to embark","[1] Movement point cost to disembark"],
 
 },
