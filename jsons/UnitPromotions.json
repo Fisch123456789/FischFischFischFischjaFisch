@@ -255,7 +255,7 @@
 		"name": "Anti Tank Gear",
 		"uniques": ["[+33]% Strength <vs [Armored] units>"],
 		"unitTypes": ["Execute"],
-	"prerequisites": "Shock III","Drill III"],
+	"prerequisites": ["Shock III","Drill III"],
         "column": 25,
         "row": 1
 	},
