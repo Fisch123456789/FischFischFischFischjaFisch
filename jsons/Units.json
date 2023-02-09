@@ -121,7 +121,7 @@
 		"unitType": "Mage",
 		"uniques": ["Unbuildable"],
 		"movement": 3
-		"strength":5
+		"strength":4
 		"range": 2,
 		"rangedStrength": 6,
 					
