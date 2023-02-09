@@ -241,7 +241,7 @@
 	},
 {
 		"name": "Dragon Fighter",
-		"unitType": "Melee",
+		"unitType": "Sword",
 		"uniqueTo": "Dragon Cliffs",
 		"movement": 3,
 		"cost": 180,
