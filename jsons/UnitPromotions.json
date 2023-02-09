@@ -180,6 +180,101 @@
         "column": 5,
         "row": 3
 	},
+	{
+		"name": "Sneaking",
+		"prerequisites": ["Drill III", "Shock III"],
+		"uniques": ["[+1] Movement"],
+		"unitTypes": ["Execute"],
+        "column": 6,
+        "row": 3
+	},
+{
+		"name": "Sneaking II",
+		"prerequisites": ["Sneaking"],
+		"uniques": ["[+1] Sight"],
+		"unitTypes": ["Execute"],
+        "column": 6,
+        "row": 3
+	},
+{
+		"name": "Smoke Bomb",
+		"prerequisites": ["Sneaking II"],
+		"uniques": ["Invisible to non-adjacent units"],
+		"unitTypes": ["Execute"],
+        "column": 6,
+        "row": 3
+	},
+	{
+		"name": "Medic",
+		"prerequisites": ["Shock I", "Drill I", "Scouting II", "Survivalism II"],
+		"uniques": ["All adjacent units heal [+5] HP when healing"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Execute"],
+        "column": 10, // after scout base
+        "row": 1
+	},
+	{
+		"name": "Medic II",
+		"prerequisites": ["Medic"],
+		"uniques": ["[+5] HP when healing <in [Foreign Land] tiles>", "All adjacent units heal [+5] HP when healing"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Scout","Execute"],
+        "column": 10,
+        "row": 2
+	},
+{
+		"name": "Cover I",
+		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Execute"],
+        "column": 24,
+        "row": 1
+	},
+	{
+		"name": "Cover II",
+		"prerequisites": ["Cover I"],
+		"uniques": ["[+33]% Strength <vs [Ranged] units> <when defending>"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Execute"],
+        "column": 24,
+        "row": 2
+	},
+	{
+		"name": "Cover III",
+		"prerequisites": ["Cover II"],
+		"uniques": ["[+50]% Strength <vs [Air] units> <when defending>"],
+		"unitTypes": ["Execute"],
+        "column": 24,
+        "row": 2
+	},
+{
+		"name": "March",
+		"prerequisites": ["Accuracy II","Barrage II","Shock III","Drill III"],
+		"uniques": ["Unit will heal every turn, even if it performs an action"],
+		"unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder","Siege","Mounted","Execute"],
+        "column": 10,
+        "row": 3
+	},
+{
+		"name": "Anti Tank Gear",
+		"uniques": ["[+33]% Strength <vs [Armored] units>"],
+		"unitTypes": ["Execute"],
+	"prerequisites": "Shock III","Drill III"],
+        "column": 25,
+        "row": 1
+	},
+	{
+		"name": "Anti Tank Gear II",
+		"prerequisites": ["Ambush I"],
+		"uniques": ["[+33]% Strength <vs [Armored] units>"],
+		"unitTypes": ["Execute"],
+        "column": 25,
+        "row": 2
+	},
+{
+		"name": "Assasination",
+		"prerequisites": ["Anti Tank Gear II","Cover III", "Sneaking II"],
+		"uniques": ["[+33]% Strength <vs [Wounded] units>"],
+		"unitTypes": ["Execute"],
+        "column": 6,
+        "row": 2
+	},
 
 
 
