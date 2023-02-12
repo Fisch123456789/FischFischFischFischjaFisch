@@ -19,7 +19,8 @@
  {
   "name": "Wizard",
         "movementType": "Land"
-	 	"uniques": ["Unbuildable","[+50]% Strength <during the [Classical era]>",
+	 	"uniques": ["Unbuildable","Can perform Air Sweep", "Can see over obstacles",
+	 				"[+50]% Strength <during the [Classical era]>",
 					"[+150]% Strength <during the [Medieval era]>",
 					"[+650]% Strength <during the [Renaissance era]>",
 					"[+1700]% Strength <during the [Industrial era]>",
@@ -36,7 +37,7 @@
 			    "[100]% chance to intercept air attacks <during the [Atomic era]>",
 			    "[100]% chance to intercept air attacks <during the [Information era]>",
 			    "[100]% chance to intercept air attacks <during the [Future era]>",
-			   		"Can perform Air Sweep", //<starting from the [Atomic era]>",
+				 //<starting from the [Atomic era]>",
 			  // "Can perform Air Sweep <during the [Information era]>",
 			  // "Can perform Air Sweep <during the [Future era]>",
 			   "[+1900]% Strength <vs [Aircraft] units>"],
