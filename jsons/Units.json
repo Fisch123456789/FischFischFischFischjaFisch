@@ -112,7 +112,7 @@
 {
 		"name": "Lady Diana",
 		"unitType": "Battle Queen",
-		"uniques": ["Unbuildable","[-5]% Production when constructing [Military] units [in all cities]"],
+		"uniques": ["Unbuildable"],
 		"movement": 3
 		"strength":6
 	},
