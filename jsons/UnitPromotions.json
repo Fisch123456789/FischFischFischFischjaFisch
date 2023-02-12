@@ -182,7 +182,7 @@
 		"uniques": ["[+1] Movement"],
 		"unitTypes": ["Execute"],
         "column": 6,
-        "row": 3
+        "row": 1
 	},
 {
 		"name": "Sneaking II",
@@ -190,7 +190,7 @@
 		"uniques": ["[+1] Sight"],
 		"unitTypes": ["Execute"],
         "column": 6,
-        "row": 3
+        "row": 2
 	},
 {
 		"name": "Smoke Bomb",
@@ -237,7 +237,7 @@
 		"uniques": ["[+50]% Strength <vs [Air] units> <when defending>"],
 		"unitTypes": ["Execute"],
         "column": 24,
-        "row": 2
+        "row": 3
 	},
 {
 		"name": "March",
@@ -269,7 +269,7 @@
 		"uniques": ["[+33]% Strength <vs [Wounded] units>"],
 		"unitTypes": ["Execute"],
         "column": 6,
-        "row": 2
+        "row": 4
 	},
 
 
