@@ -76,7 +76,7 @@
 		"cost": 70,
 		"isWonder": true,
 		"uniqueTo": "The Forgotten Hords",
-        "uniques": ["Free [Lady Diana] appears"],
+        "uniques": ["Free [Lady Diana] appears","[-5]% Production when constructing [Military] units [in all cities]"],
 		"quote": "'One World to be destruvted, so where do we start honey?' - Lady Diana herself"
 	},
 	{
