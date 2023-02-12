@@ -288,7 +288,7 @@
 		"name": "Worker",
 		"unitType": "Civilian",
 		"movement": 2,
-		"uniques": ["Can build [Land] improvements on tiles", "Can transform to [Airfield] <starting from the [Atomic Era]>"],
+		"uniques": ["Can build [Land] improvements on tiles"],
 		"cost": 70
 	},
 
