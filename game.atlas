@@ -1,0 +1,699 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Airport
+  rotate: false
+  xy: 4, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Assasin Hood
+  rotate: false
+  xy: 713, 1808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Dojo
+  rotate: false
+  xy: 713, 1808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bandit's Port
+  rotate: false
+  xy: 212, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fire camp
+  rotate: false
+  xy: 1545, 1600
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Graveyard
+  rotate: false
+  xy: 1337, 1392
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Igloo
+  rotate: false
+  xy: 683, 1184
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lady Diana's Grave
+  rotate: false
+  xy: 1099, 1184
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lady Liara's Grave
+  rotate: false
+  xy: 4, 1044
+  size: 463, 463
+  orig: 463, 463
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lord Arfriel's Grave
+  rotate: false
+  xy: 475, 976
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lord Argarok's Grave
+  rotate: false
+  xy: 891, 976
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lord Artruo's Grave
+  rotate: false
+  xy: 1307, 976
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Martial Arts School
+  rotate: false
+  xy: 1723, 976
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Military Airport
+  rotate: false
+  xy: 420, 560
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/National Trading Net
+  rotate: false
+  xy: 420, 352
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Powerhouse
+  rotate: false
+  xy: 420, 144
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sacred Forge
+  rotate: false
+  xy: 628, 144
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Soccer Arena
+  rotate: false
+  xy: 1044, 144
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Ataloah
+  rotate: false
+  xy: 212, 836
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Bear Farm
+  rotate: false
+  xy: 921, 1600
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Bear Mine
+  rotate: false
+  xy: 1129, 1808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Bear Oil well
+  rotate: false
+  xy: 4, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Bear Pasture
+  rotate: false
+  xy: 1460, 452
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Bear Plantation
+  rotate: false
+  xy: 1668, 660
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Bear Plantation
+  rotate: false
+  xy: 1668, 660
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Bear Quarry
+  rotate: false
+  xy: 212, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Deep Drill
+  rotate: false
+  xy: 1337, 1808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Holy Forge
+  rotate: false
+  xy: 1753, 1392
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Baerenland
+  rotate: false
+  xy: 420, 36
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Dragon Cliffs
+  rotate: false
+  xy: 528, 36
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Inselstaat
+  rotate: false
+  xy: 1460, 344
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Loewenland
+  rotate: false
+  xy: 636, 36
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/South Shadow Isles
+  rotate: false
+  xy: 1460, 236
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Forgotten
+  rotate: false
+  xy: 744, 36
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Forgotten Hords
+  rotate: false
+  xy: 744, 36
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Icelands
+  rotate: false
+  xy: 852, 36
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Western Icelands
+  rotate: false
+  xy: 960, 36
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Energy Stones
+  rotate: false
+  xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Mythic Energy
+  rotate: false
+  xy: 628, 768
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Airfield
+  rotate: false
+  xy: 1668, 571
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Forge Priest
+  rotate: false
+  xy: 1068, 49
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lord Arfriel
+  rotate: false
+  xy: 1460, 147
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lord Argarok
+  rotate: false
+  xy: 1171, 55
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lord Artruo
+  rotate: false
+  xy: 1274, 55
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Shadow
+  rotate: false
+  xy: 1568, 471
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Special Agent Force
+  rotate: false
+  xy: 1568, 382
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Wave-Raider
+  rotate: false
+  xy: 1568, 293
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Forge Priest
+  rotate: false
+  xy: 1961, 1960
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Shadow
+  rotate: false
+  xy: 420, 988
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Wave-Raider
+  rotate: false
+  xy: 1876, 920
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+UnitIcons/Airfield
+  rotate: false
+  xy: 505, 1808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Assasin
+  rotate: false
+  xy: 505, 1600
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Bear Worker
+  rotate: false
+  xy: 1129, 1600
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Dragon Fighter
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Fireclaws
+  rotate: false
+  xy: 1753, 1600
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Forge Priest
+  rotate: false
+  xy: 921, 1392
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Fuhai
+  rotate: false
+  xy: 1129, 1392
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Hammerhead Shark
+  rotate: false
+  xy: 1545, 1392
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Husky Sled
+  rotate: false
+  xy: 475, 1184
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Lady Diana
+  rotate: false
+  xy: 891, 1184
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Lady Liara
+  rotate: false
+  xy: 1307, 1184
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Lionrider
+  rotate: false
+  xy: 1515, 1184
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Lord Arfriel
+  rotate: false
+  xy: 1723, 1184
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Lord Argarok
+  rotate: false
+  xy: 683, 976
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Lord Artruo
+  rotate: false
+  xy: 1099, 976
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Merchant
+  rotate: false
+  xy: 420, 768
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Orca
+  rotate: false
+  xy: 628, 560
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Rotten Blood
+  rotate: false
+  xy: 1044, 768
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Satsuma Bowman
+  rotate: false
+  xy: 836, 352
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Shadow
+  rotate: false
+  xy: 836, 144
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Special Agent Force
+  rotate: false
+  xy: 1252, 352
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Wave-Raider
+  rotate: false
+  xy: 1460, 560
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Anti Tank Gear
+  rotate: false
+  xy: 4, 1515
+  size: 493, 493
+  orig: 493, 493
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Assasination
+  rotate: false
+  xy: 4, 628
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Attack
+  rotate: false
+  xy: 713, 1600
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Attack II
+  rotate: false
+  xy: 921, 1808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Attack III
+  rotate: false
+  xy: 4, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Attack IV
+  rotate: false
+  xy: 4, 420
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Dragonbreath
+  rotate: false
+  xy: 212, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Dragonstrength
+  rotate: false
+  xy: 1337, 1600
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Elite Force
+  rotate: false
+  xy: 1545, 1808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Fireclaw
+  rotate: false
+  xy: 1753, 1808
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Floating
+  rotate: false
+  xy: 505, 1392
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Floating II
+  rotate: false
+  xy: 713, 1392
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Manaflow
+  rotate: false
+  xy: 1515, 976
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Manaflow  II
+  rotate: false
+  xy: 1515, 976
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Poke
+  rotate: false
+  xy: 836, 768
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Predator
+  rotate: false
+  xy: 628, 352
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Revivication
+  rotate: false
+  xy: 836, 560
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Revivication I
+  rotate: false
+  xy: 836, 560
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Revivication II
+  rotate: false
+  xy: 836, 560
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Revivication III
+  rotate: false
+  xy: 836, 560
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Satsuma's Eye
+  rotate: false
+  xy: 1044, 560
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Seaborn
+  rotate: false
+  xy: 1252, 768
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Sliding
+  rotate: false
+  xy: 1044, 352
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Smoke Bomb
+  rotate: false
+  xy: 1252, 560
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Sneaking
+  rotate: false
+  xy: 1460, 768
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Working Bear
+  rotate: false
+  xy: 1668, 768
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/cruelty
+  rotate: false
+  xy: 1252, 144
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
