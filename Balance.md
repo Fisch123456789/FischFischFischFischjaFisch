@@ -1,0 +1,1 @@
+The Forgotten got nerfed, as their hero summoning now lowers their military production, which makes it harder for them to build a really overpowered army, and gives their heros a more important stand in this civ.
