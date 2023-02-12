@@ -88,20 +88,20 @@
 		"unitType": "Shadow Knight",
 		"movement": 5
 		"strength":6
-		"uniques": ["Only available <if [Lord Argarok's Grave] is constructed>","Limited to [1] per Civilization"]
+		"uniques": ["Only available <if [Lord Argarok's Grave] is constructed>","Limited to [1] per Civilization", "Unbuildable"]
 		
 	},
 {
 		"name": "Lord Arfriel",
 		"unitType": "Leader",
-		"uniques": ["Only available <if [Lord Arfriel's Grave] is constructed>","Limited to [1] per Civilization"],
+		"uniques": ["Only available <if [Lord Arfriel's Grave] is constructed>","Limited to [1] per Civilization", "Unbuildable"],
 		"movement": 2
 		"strength":5
 	},
 {
 		"name": "Lord Artruo",
 		"unitType": "Wizard",
-		"uniques": ["Only available <if [Lord Artruo's Grave] is constructed>","Limited to [1] per Civilization"],
+		"uniques": ["Only available <if [Lord Artruo's Grave] is constructed>","Limited to [1] per Civilization", "Unbuildable"],
 					
 		"movement": 2
 		"strength":4
@@ -112,14 +112,14 @@
 {
 		"name": "Lady Diana",
 		"unitType": "Battle Queen",
-		"uniques": ["Only available <if [Lady Diana's Grave] is constructed>","Limited to [1] per Civilization"],
+		"uniques": ["Only available <if [Lady Diana's Grave] is constructed>","Limited to [1] per Civilization", "Unbuildable"],
 		"movement": 3
 		"strength":6
 	},
 {
 		"name": "Lady Liara",
 		"unitType": "Mage",
-		"uniques": ["Only available <if [Lady Liara's Grave] is constructed>","Limited to [1] per Civilization"],
+		"uniques": ["Only available <if [Lady Liara's Grave] is constructed>","Limited to [1] per Civilization", "Unbuildable"],
 		"movement": 3
 		"strength":4
 		"range": 2,
