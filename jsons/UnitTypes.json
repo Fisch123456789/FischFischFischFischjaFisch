@@ -18,7 +18,7 @@
   }
  {
   "name": "Wizard",
-        "movementType": "Land"
+        "movementType": "Air"
 	 	"uniques": ["Unbuildable","Can perform Air Sweep", "Can see over obstacles",
 	 				"[+50]% Strength <during the [Classical era]>",
 					"[+150]% Strength <during the [Medieval era]>",
