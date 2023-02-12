@@ -158,6 +158,13 @@
 		"requiredTech": "Steel",
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 	},
+{
+		"name": "Airport",
+		"maintenance": 2,
+		"happiness":1,
+		"requiredTech": "Steel",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+	},
 	
 
 
