@@ -49,7 +49,7 @@
 		"cost": 70,
 		"isWonder": true,
 		"uniqueTo": "The Forgotten Hords",
-        "uniques": ["Free [Lord Argarok] appears"],
+        "uniques": ["Free [Lord Argarok] appears","[-5]% Production when constructing [Military] units [in all cities]"],
 		"quote": "'They are blind, they are fools, im coming for them, im going to end their endless sufffer!Hahahaha!!' - Lord Argarok himself"
 	},
 	{
@@ -58,7 +58,7 @@
 		"cost": 70,
 		"isWonder": true,
 		"uniqueTo": "The Forgotten Hords",
-        "uniques": ["Free [Lord Arfriel] appears"],
+        "uniques": ["Free [Lord Arfriel] appears","[-5]% Production when constructing [Military] units [in all cities]"],
 		"quote": "'The taste of blood has been out of my mind for an eternally, its time to get bakc, cause nothings sweeter than blood with revenge' - Lord Arfriel himself"
 	},
 	{
@@ -67,7 +67,7 @@
 		"cost": 70,
 		"isWonder": true,
 		"uniqueTo": "The Forgotten Hords",
-        "uniques": ["Free [Lord Artruo] appears"],
+        "uniques": ["Free [Lord Artruo] appears","[-5]% Production when constructing [Military] units [in all cities]"],
 		"quote": "'When I was younger, you know the world was so simple, so free, endless, everything seemed possible, now im old, I died, and I still dont have the answers, it's sad i know, and painful too.' - Lord Artruo himself"
 	},
 	{
@@ -76,7 +76,7 @@
 		"cost": 70,
 		"isWonder": true,
 		"uniqueTo": "The Forgotten Hords",
-        "uniques": ["Free [Lady Diana] appears"],
+        "uniques": ["Free [Lady Diana] appears","[-5]% Production when constructing [Military] units [in all cities]"],
 		"quote": "'One World to be destruvted, so where do we start honey?' - Lady Diana herself"
 	},
 	{
@@ -85,7 +85,7 @@
 		"cost": 70,
 		"isWonder": true,
 		"uniqueTo": "The Forgotten Hords",
-        "uniques": ["Free [Lady Liara] appears"],
+        "uniques": ["Free [Lady Liara] appears","[-5]% Production when constructing [Military] units [in all cities]"],
 		"quote": "'The world is a beautiful place, with endless potential, lets make it a better place to be.' - Lady Liara herself"
 	},
 	{
