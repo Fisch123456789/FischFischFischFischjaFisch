@@ -101,7 +101,7 @@
 		"uniques":["[+25]% Strength <when fighting in [Snow] tiles>",
 			"[+25]% Strength <when fighting in [Tundra] tiles>",
 			"Double movement in [Snow]",
-			"Double movement in [Tundra]", "[15] HP when healing","[+25%] Strength <when attacking>"
+			"Double movement in [Tundra]", "[15] HP when healing","[+25]% Strength <when attacking>"
 	],
 
 },
