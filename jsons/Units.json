@@ -282,7 +282,7 @@
 		"name": "Airfield",
 		"unitType": "Civilian",
 		"movement": 0,
-		"uniques": ["unbuildable", "can carry [3] [aircraft] units"]
+		"uniques": ["Unbuildable", "Can carry [3] [aircraft] units"]
 	},
 {
 		"name": "Worker",
