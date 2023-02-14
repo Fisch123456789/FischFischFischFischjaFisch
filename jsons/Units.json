@@ -100,7 +100,7 @@
 	},
 {
 		"name": "Lord Artruo",
-		"unitType": "Wizard",
+		"unitType": "Fighter",
 		"uniques": ["Only available <if [Lord Artruo's Grave] is constructed>","Limited to [1] per Civilization", "Unbuildable"],
 					
 		"movement": 2
