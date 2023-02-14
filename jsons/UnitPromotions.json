@@ -306,8 +306,23 @@
 		"unitTypes": ["Wizard"],
 		"prerequisites": ["Aircontrol II"],
 	},
-
-
+{
+		"name": "Stonebreaker",
+		"uniques": ["[+200]% Strength <when attacking>"],
+		"unitTypes": ["Wizard"],
+	},
+{
+		"name": "Stonebreaker II",
+		"uniques": ["[+100]% Strength <when attacking>", "[+300]% Strength <vs cities>"],
+		"unitTypes": ["Wizard"],
+		"prerequisites": ["Stonebreaker"],
+	},
+{
+		"name": "Stonebreaker III",
+		"uniques": ["[+2000]% Strength <vs cities>", "cannot attack <when attacking> <vs cities> <for [1] turns>"],
+		"unitTypes": ["Wizard"],
+		"prerequisites": ["Stonebreaker"],
+	},
 
 
 
