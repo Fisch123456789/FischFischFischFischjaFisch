@@ -101,7 +101,7 @@
 {
 		"name": "Lord Artruo",
 		"unitType": "Wizard",
-		"uniques": ["Only available <if [Lord Artruo's Grave] is constructed>","Limited to [1] per Civilization", "Unbuildable","Can perform Air Sweep"],
+		"uniques": ["Only available <if [Lord Artruo's Grave] is constructed>","Limited to [1] per Civilization", "Unbuildable"],
 					
 		"movement": 2
 		"strength":4
