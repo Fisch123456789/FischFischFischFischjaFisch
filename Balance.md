@@ -3,3 +3,5 @@
 12.02.2023-The Forgotten can now buy their Heros with faith at an increasing price. So they dont loose their benefits if they loose a hero early.
 
 12.02.2023-Igloo gets buffed, cause it was quite useless before.
+
+14.02.2023-Air Sweep is broken, its just not working for any unit. Not even for fighters.
