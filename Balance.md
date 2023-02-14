@@ -4,4 +4,3 @@
 
 12.02.2023-Igloo gets buffed, cause it was quite useless before.
 
-14.02.2023-Air Sweep is broken, its just not working for any unit. Not even for fighters.
