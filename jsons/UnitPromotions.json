@@ -290,7 +290,7 @@
 	},
 {
 		"name": "Aircontrol",
-		"uniques": ["[+1] Sight","[+200]% Strength <vs [Aircraft] units>", "Can perform Air Sweep" //"[+200]% Damage when performing Air sweep",
+		"uniques": ["[+1] Sight","[+200]% Strength <vs [Aircraft] units>"//"[+200]% Damage when performing Air sweep",
 			   ],
 		"unitTypes": ["Wizard"],
 	},
