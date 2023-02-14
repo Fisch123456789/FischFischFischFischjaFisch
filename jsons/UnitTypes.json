@@ -135,6 +135,13 @@
 			    "Can build [Cancel improvement order] improvements on tiles",
 			    "Can build [Repair] improvements on tiles","Will not be displayed in Civilopedia"]
 },
- 
+ {
+        "name": "Fighter",
+        "movementType": "Land",
+        "uniques": [//"Aircraft",
+		    "[+4] Sight", 
+		    "Can see over obstacles",
+		    "Can perform Air Sweep"]
+    },
 
 ]
