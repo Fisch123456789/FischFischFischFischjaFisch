@@ -290,7 +290,7 @@
 	},
 {
 		"name": "Aircontrol",
-		"uniques": ["[+1] Sight","[+200]% Strength <vs [Aircraft] units>"],
+		"uniques": ["[+1] Sight","[+200]% Strength <vs [Aircraft] units>", "[+200]% Damage when performing Air sweep",],
 		"unitTypes": ["Wizard"],
 	},
 {
@@ -302,7 +302,9 @@
 
 {
 		"name": "Aircontrol III",
-		"uniques": ["[+200]% Strength <vs [Aircraft] units>","[1] extra interceptions may be made per turn"],
+		"uniques": [//"[+200]% Strength <vs [Aircraft] units>",
+				"[+200]% Damage when performing Air sweep",
+			    "[1] extra interceptions may be made per turn"],
 		"unitTypes": ["Wizard"],
 		"prerequisites": ["Aircontrol II"],
 	},
