@@ -296,7 +296,7 @@
 		"name": "JAman",
 		"replaces": "Warrior",
 		"uniqueTo": "Loewenland",
-		"unitType": "Sword",
+		"unitType": "Bomber",
 		"movement": 12,
 		"strength": 245,
 		"cost": 10,
