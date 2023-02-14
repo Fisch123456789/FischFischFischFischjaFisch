@@ -19,7 +19,7 @@
  {
   "name": "Wizard",
         "movementType": "Land"
-	 	"uniques": ["Unbuildable","Can see over obstacles", "Can perform Air Sweep"
+	 	"uniques": ["Unbuildable","Can see over obstacles", //"Can perform Air Sweep"
 	 				"[+50]% Strength <during the [Classical era]>",
 					"[+150]% Strength <during the [Medieval era]>",
 					"[+650]% Strength <during the [Renaissance era]>",
@@ -135,13 +135,5 @@
 			    "Can build [Cancel improvement order] improvements on tiles",
 			    "Can build [Repair] improvements on tiles","Will not be displayed in Civilopedia"]
 },
- {
-        "name": "Fighter",
-        "movementType": "Land",
-        "uniques": [//"Aircraft",
-		    "[+4] Sight", 
-		    "Can see over obstacles",
-		    "Can perform Air Sweep"]
-    },
-
+ 
 ]
