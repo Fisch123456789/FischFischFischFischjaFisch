@@ -292,22 +292,5 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Can transform to [Airfield]"],
 		"cost": 70
 	},
-{
-		"name": "JAman",
-		"replaces": "Warrior",
-		"uniqueTo": "Loewenland",
-		"unitType": "Bomber",
-		"movement": 12,
-		"strength": 245,
-		"cost": 10,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"uniques" : ["Can perform Air Sweep"],
-		"attackSound": "nonmetalhit",
-        "civilopediaText": [
-			{"text": "This is your basic, club-swinging fighter."}
-		]
-	},
-
 
 ]
