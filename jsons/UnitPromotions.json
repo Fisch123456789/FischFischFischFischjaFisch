@@ -322,7 +322,7 @@
 	},
 {
 		"name": "Stonebreaker III",
-		"uniques": ["[+2000]% Strength <vs cities>", "cannot attack <when attacking> <vs cities> <for [1] turns>","[+1] Range"],
+		"uniques": ["[+200]% Strength <vs cities>","[+200]% Strength <vs cities> <when attacking>"],
 		"unitTypes": ["Wizard"],
 		"prerequisites": ["Stonebreaker II"],
 	},
