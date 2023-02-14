@@ -271,7 +271,41 @@
         "column": 6,
         "row": 4
 	},
+{
+		"name": "Defensive Aura",
+		"uniques": ["[+100]% Strength <when defending>"],
+		"unitTypes": ["Wizard"],
+	},
+{
+		"name": "Defensive Aura II",
+		"uniques": ["[+15]% Strength <when defending> bonus for [Military] units within [1] tiles"],
+		"unitTypes": ["Wizard"],
+		"prerequisites": ["Defensive Aura"],
+	},
+{
+		"name": "Defensive Aura III",
+		"uniques": ["[+15]% Strength <when defending> bonus for [Military] units within [2] tiles"],
+		"unitTypes": ["Wizard"],
+		"prerequisites": ["Defensive Aura II"],
+	},
+{
+		"name": "Aircontrol",
+		"uniques": ["[+1] Sight"],
+		"unitTypes": ["Wizard"],
+	},
+{
+		"name": "Aircontrol II",
+		"uniques": ["[+200]% Strength <when intercepting>"],
+		"unitTypes": ["Wizard"],
+		"prerequisites": ["Aircontrol"],
+	},
 
+{
+		"name": "Aircontrol III",
+		"uniques": ["[+200]% Strength <when intercepting>","[1] extra interceptions may be made per turn"],
+		"unitTypes": ["Wizard"],
+		"prerequisites": ["Aircontrol II"],
+	},
 
 
 
