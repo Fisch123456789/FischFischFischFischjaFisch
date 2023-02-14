@@ -302,7 +302,7 @@
 		"cost": 10,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques" : ["Can perform Air sweep"],
+		"uniques" : ["Can perform Air Sweep"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
