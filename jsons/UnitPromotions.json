@@ -318,7 +318,7 @@
 		"name": "Stonebreaker II",
 		"uniques": ["[+100]% Strength <when attacking>", "[+300]% Strength <vs cities>"],
 		"unitTypes": ["Wizard"],
-		"prerequisites": ["Stonebreaker"],
+
 	},
 {
 		"name": "Stonebreaker III",
@@ -326,7 +326,38 @@
 		"unitTypes": ["Wizard"],
 		"prerequisites": ["Stonebreaker II"],
 	},
-
-
-
+{
+		"name": "Horsepower",
+		"uniques": ["[+1] Movement"],
+		"unitTypes": ["Shadow Knight"],
+	},
+{
+		"name": "Horsepower II",
+		"uniques": ["[+1] Movement", "[+200]% to Flank Attack bonuses"],
+		"unitTypes": ["Shadow Knight"],
+		"prerequisites": ["Horsepower"],
+	},
+{
+		"name": "Horsepower III",
+		"uniques": ["[+200]% to Flank Attack bonuses", "Ignores terrain cost"]
+		"unitTypes": ["Shadow Knight"],
+		"prerequisites": ["Horsepower"],
+	},
+{
+		"name": "Executioner",
+		"uniques": ["[+200]% Strength <when attacking>"],
+		"unitTypes": ["Shadow Knight"],
+	},
+{
+		"name": "Executioner II",
+		"uniques": ["[+200]% Strength <vs [Wounded] units> <when attacking>"],
+		"unitTypes": ["Shadow Knight"],
+		"prerequisites": ["Executioner"],
+	},
+{
+		"name": "Executioner III",
+		"uniques": ["[+200]% Strength <vs [Wounded] units> <when attacking>", "Can transform to [Lord Aragork the bloody]"],
+		"unitTypes": ["Shadow Knight"],
+		"prerequisites": ["Executioner II"],
+	},
 ]
