@@ -356,8 +356,32 @@
 	},
 {
 		"name": "Executioner III",
-		"uniques": ["[+200]% Strength <vs [Wounded] units> <when attacking>", "Can transform to [Lord Aragork the bloody]"],
+		"uniques": ["[+200]% Strength <vs [Wounded] units> <when attacking>", "Heals [25] damage if it kills a unit"],
 		"unitTypes": ["Shadow Knight"],
 		"prerequisites": ["Executioner II"],
 	},
+{
+		"name": "Figthing",
+		"uniques": ["[+100]% Strength","Unit will heal every turn, even if it performs an action"],
+		"unitTypes": ["Shadow Knight"],
+	},
+{
+		"name": "Figthing II",
+		"uniques": ["[+100]% Strength", "[+200]% Strength <vs [Armored] units>", "[+200]% Strength <vs [Mounted] units>"],
+		"unitTypes": ["Shadow Knight"],
+		"prerequisites": ["Fighting"],
+	},
+{
+		"name": "Figthing III",
+		"uniques": ["[+100]% Strength <when below [85]HP>",
+			   "[+100]% Strength <when below [70]HP>",
+			   "[+100]% Strength <when below [55]HP>",
+			   "[+100]% Strength <when below [40]HP>",
+			   "[+100]% Strength <when below [25]HP>",
+			   "[+200]% Strength <when below [10]HP>"],
+		"unitTypes": ["Shadow Knight"],
+		"prerequisites": ["Fighting"],
+	},
+
+
 ]
