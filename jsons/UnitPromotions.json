@@ -448,7 +448,7 @@
 	},
 {
 		"name": "Bulwark III",
-		"uniques": ["[100]% chance to intercept air attacks", "[+700]% Damage when intercepting", "Can build [Itari Fort]  improvements on tiles"],
+		"uniques": ["[100]% chance to intercept air attacks", "[+700]% Damage when intercepting", "Can build [Itari Fort] improvements on tiles"],
 		"unitTypes": ["Leader"],
 		"prerequisites": ["Bulwark II"],
 	},
