@@ -499,7 +499,7 @@
 	},
 {
 		"name": "Hunter III",
-		"uniques": ["Unit will heal every turn, even if it performs an action", "May capture killed [Water] units"],
+		"uniques": ["Unit will heal every turn, even if it performs an action", "May capture killed [Land] units"],
 		"unitTypes": ["Battle Queen"],
 		"prerequisites": ["Hunter II"]
 	},
