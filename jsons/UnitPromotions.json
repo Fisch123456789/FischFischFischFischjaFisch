@@ -452,4 +452,55 @@
 		"unitTypes": ["Leader"],
 		"prerequisites": ["Bulwark II"],
 	},
+{
+		"name": "Pillaging III",
+		"uniques": ["All healing effects doubled"],
+		"unitTypes": ["Battle Queen"],
+		"prerequisites": ["Pillaging II"],
+	},
+{
+		"name": "Pillaging",
+		"uniques": ["No movement cost to pillage"],
+		"unitTypes": ["Battle Queen"]
+	},
+{
+		"name": "Pillaging II",
+		"uniques": ["[+10] HP when healing"],
+		"unitTypes": ["Battle Queen"],
+		"prerequisites": ["Pillaging"],
+	},
+{
+		"name": "Destroyer",
+		"uniques": ["[+300]% Strength <vs cities>"],
+		"unitTypes": ["Battle Queen"]
+	},
+{
+		"name": "Destroyer II",
+		"uniques": ["Can move after attacking", "[+200]% Strength"],
+		"unitTypes": ["Battle Queen"]
+		"prerequisites": ["Destroyer"],
+	},
+{
+		"name": "Destroyer III",
+		"uniques": ["[+1] Movement", "[+300]% Strength <vs cities>",  "Upon capturing a city, receive [4] times its [Culture] production as [Gold] immediately"],
+		"unitTypes": ["Battle Queen"],
+		"prerequisites": ["Destroyer II"],
+	},
+{
+		"name": "Hunter",
+		"uniques": ["[+1] Movement", "[+200]% Strength <vs [Wounded] units>"],
+		"unitTypes": ["Battle Queen"]
+	},
+{
+		"name": "Hunter II",
+		"uniques": ["Heals [15] damage if it kills a unit", "[+100]% Strength"],
+		"unitTypes": ["Battle Queen"],
+		"prerequisites": ["Hunter"]
+	},
+{
+		"name": "Hunter III",
+		"uniques": ["Unit will heal every turn, even if it performs an action", "May capture killed [Water] units"],
+		"unitTypes": ["Battle Queen"],
+		"prerequisites": ["Hunter II"]
+	},
 ]
