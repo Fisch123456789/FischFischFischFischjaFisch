@@ -341,7 +341,7 @@
 		"name": "Horsepower III",
 		"uniques": ["[+200]% to Flank Attack bonuses", "Ignores terrain cost"]
 		"unitTypes": ["Shadow Knight"],
-		"prerequisites": ["Horsepower"],
+		"prerequisites": ["Horsepower II"],
 	},
 {
 		"name": "Executioner",
