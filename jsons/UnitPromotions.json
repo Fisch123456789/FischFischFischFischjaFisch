@@ -382,6 +382,74 @@
 		"unitTypes": ["Shadow Knight"],
 		"prerequisites": ["Fighting"],
 	},
-
-
+{
+		"name": "Leading",
+		"uniques": ["[+5]% Strength bonus for [Military] units within [1] tiles"],
+		"unitTypes": ["Leader"],
+	
+	},
+{
+		"name": "Leading II",
+		"uniques": ["[+10]% Strength bonus for [Military] units within [2] tiles"],
+		"unitTypes": ["Leader"],
+		"prerequisites": ["Leading"],
+	},
+{
+		"name": "Leading III",
+		"uniques": ["[+10]% Strength bonus for [Military] units within [3] tiles"],
+		"unitTypes": ["Leader"],
+		"prerequisites": ["Leading II"],
+	},
+{
+		"name": "Born Leader",
+		"uniques": ["[+100]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [1] tiles"],
+		"unitTypes": ["Leader"],
+	},
+{
+		"name": "Born Leader II",
+		"uniques": ["[+100]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [2] tiles"],
+		"unitTypes": ["Leader"],
+		"prerequisites": ["Born Leader"],
+	},
+{
+		"name": "Born Leader III",
+		"uniques": ["[+100]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [3] tiles"],
+		"unitTypes": ["Leader"],
+		"prerequisites": ["Born Leader II"],
+	},
+{
+		"name": "The mighty Leader",
+		"uniques": ["[+150]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [4] tiles"],
+		"unitTypes": ["Leader"],
+		"prerequisites": ["Born Leader III"],
+	},
+{
+		"name": "The mighty Leader II",
+		"uniques": ["[+150]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [5] tiles"],
+		"unitTypes": ["Leader"],
+		"prerequisites": ["The mighty Leader"],
+	},
+{
+		"name": "The mighty Leader III",
+		"uniques": ["[+200]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [6] tiles"],
+		"unitTypes": ["Leader"],
+		"prerequisites": ["The mighty Leader II"],
+	},
+{
+		"name": "Bulwark",
+		"uniques": ["[+200]% Strength <when defending>"],
+		"unitTypes": ["Leader"],
+	},
+{
+		"name": "Bulwark II",
+		"uniques": ["Can build [Fort] improvements on tiles", "[50]% chance to intercept air attacks", "[+500]% Damage when intercepting"],
+		"unitTypes": ["Leader"],
+		"prerequisites": ["Bulwark"],
+	},
+{
+		"name": "Bulwark III",
+		"uniques": ["[100]% chance to intercept air attacks", "[+700]% Damage when intercepting", "Can build [Itari Fort] on tiles"],
+		"unitTypes": ["Leader"],
+		"prerequisites": ["Bulwark II"],
+	},
 ]
