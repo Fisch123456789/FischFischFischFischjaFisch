@@ -283,7 +283,7 @@
 		"unitType": "Civilian",
 		"requiredTech": "Radar",
 		"movement": 0,
-		"uniques": ["Unbuildable", "Can carry [3] [aircraft] units"]
+		"uniques": ["Unbuildable", "Can carry [3] [aircraft] units", "Cannot move"]
 	},
 {
 		"name": "Worker",
