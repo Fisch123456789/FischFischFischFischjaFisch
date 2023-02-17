@@ -380,7 +380,7 @@
 			   "[+100]% Strength <when below [25]HP>",
 			   "[+200]% Strength <when below [10]HP>"],
 		"unitTypes": ["Shadow Knight"],
-		"prerequisites": ["Fighting"],
+		"prerequisites": ["Fighting II"],
 	},
 {
 		"name": "Leading",
