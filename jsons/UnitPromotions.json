@@ -361,18 +361,18 @@
 		"prerequisites": ["Executioner II"],
 	},
 {
-		"name": "Figthing",
+		"name": "Fighting",
 		"uniques": ["[+100]% Strength","Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Shadow Knight"],
 	},
 {
-		"name": "Figthing II",
+		"name": "Fighting II",
 		"uniques": ["[+100]% Strength", "[+200]% Strength <vs [Armored] units>", "[+200]% Strength <vs [Mounted] units>"],
 		"unitTypes": ["Shadow Knight"],
 		"prerequisites": ["Fighting"],
 	},
 {
-		"name": "Figthing III",
+		"name": "Fighting III",
 		"uniques": ["[+100]% Strength <when below [85]HP>",
 			   "[+100]% Strength <when below [70]HP>",
 			   "[+100]% Strength <when below [55]HP>",
