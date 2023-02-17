@@ -13,7 +13,7 @@
 					"[+2400]% Strength <during the [Future era]>",
 					"[+1] Range <during the [Atomic era]>",
 			    		"[+1] Range <during the [Information era]>",
-			   		"[+1] Range <during the [Future era]>"
+			   		"[+1] Range <during the [Future era]>","May attack when embarked"
 			   ],
   }
  {
@@ -40,7 +40,7 @@
 			   //"Can perform Air Sweep <starting from the [Atomic era]>",
 			  // "Can perform Air Sweep <during the [Information era]>",
 			  // "Can perform Air Sweep <during the [Future era]>",
-			   "[+1900]% Strength <vs [Aircraft] units>"],
+			   "[+1900]% Strength <vs [Aircraft] units>","May attack when embarked"],
   }
 
  {
