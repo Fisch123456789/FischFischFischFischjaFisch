@@ -292,13 +292,13 @@
 	},
 {
 		"name": "Defensive Aura II",
-		"uniques": ["[+15]% Strength <when defending> bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+15]% Strength <when defending> bonus for [Military] units within [2] tiles"],
 		"unitTypes": ["Wizard"],
 		"prerequisites": ["Defensive Aura"],
 	},
 {
 		"name": "Defensive Aura III",
-		"uniques": ["[+15]% Strength <when defending> bonus for [Military] units within [2] tiles"],
+		"uniques": ["[+15]% Strength <when defending> bonus for [Military] units within [3] tiles"],
 		"unitTypes": ["Wizard"],
 		"prerequisites": ["Defensive Aura II"],
 	},
@@ -399,36 +399,36 @@
 	},
 {
 		"name": "Leading",
-		"uniques": ["[+5]% Strength bonus for [Military] units within [1] tiles"],
+		"uniques": ["[+5]% Strength bonus for [Military] units within [2] tiles"],
 		"unitTypes": ["Leader"],
 	
 	},
 {
 		"name": "Leading II",
-		"uniques": ["[+10]% Strength bonus for [Military] units within [2] tiles"],
+		"uniques": ["[+10]% Strength bonus for [Military] units within [3] tiles"],
 		"unitTypes": ["Leader"],
 		"prerequisites": ["Leading"],
 	},
 {
 		"name": "Leading III",
-		"uniques": ["[+10]% Strength bonus for [Military] units within [3] tiles"],
+		"uniques": ["[+10]% Strength bonus for [Military] units within [4] tiles"],
 		"unitTypes": ["Leader"],
 		"prerequisites": ["Leading II"],
 	},
 {
 		"name": "Born Leader",
-		"uniques": ["[+100]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [1] tiles"],
+		"uniques": ["[+100]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [2] tiles"],
 		"unitTypes": ["Leader"],
 	},
 {
 		"name": "Born Leader II",
-		"uniques": ["[+100]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [2] tiles"],
+		"uniques": ["[+100]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [3] tiles"],
 		"unitTypes": ["Leader"],
 		"prerequisites": ["Born Leader"],
 	},
 {
 		"name": "Born Leader III",
-		"uniques": ["[+100]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [3] tiles"],
+		"uniques": ["[+100]% Strength bonus for [{Shadow Knight}, {Mage}, {Wizard}, {Battle Queen}] units within [4] tiles"],
 		"unitTypes": ["Leader"],
 		"prerequisites": ["Born Leader II"],
 	},
