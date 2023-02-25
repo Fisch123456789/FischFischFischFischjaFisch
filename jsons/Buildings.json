@@ -176,7 +176,7 @@
 		"cost": 425,
 		"requiredBuilding": "Airport",
 		"requiredTech": "Rocketry",
-		"uniques": ["[+15]% Production when constructing [Aircraft] units [in this city]", "Can carry [3] extra [Aircraft] units",
+		"uniques": ["[+15]% Production when constructing [Aircraft] units [in this city]",
 			    //"[+15]% Production when constructing [Bomber] units [in this city]",
 			    "Free [Airfield] appears"],
 	},
