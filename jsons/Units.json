@@ -297,7 +297,8 @@
 		"unitType": "Civilian",
 		"requiredTech": "Radar",
 		"movement": 0,
-		"uniques": ["Unbuildable", "Can carry [6] [aircraft] units", "Cannot move","[+200]% maintenance costs","Can carry [1] [Great General] units"]
+		"uniques": ["Unbuildable", "Can carry [6] [aircraft] units", "Cannot move","[+200]% maintenance costs","Can carry [1] [Great General] units",
+			    "[+15]% Strength bonus for [Aircraft] units within [1] tiles"]
 	},
 
 ]
