@@ -282,9 +282,8 @@
 		"name": "Airfield",
 		"unitType": "Civilian",
 		"requiredTech": "Radar",
-		"strength": 5,
 		"movement": 0,
-		"uniques": ["Unbuildable", "Can carry [3] [aircraft] units", "Cannot move","Can transform to [Military Airfield]","Cannot attack"]
+		"uniques": ["Unbuildable", "Can carry [3] [aircraft] units", "Cannot move","Can transform to [Military Airfield]"]
 	},
 {
 		"name": "Worker",
@@ -297,9 +296,8 @@
 		"name": "Military Airfield",
 		"unitType": "Civilian",
 		"requiredTech": "Radar",
-		"strength": 85,
 		"movement": 0,
-		"uniques": ["Unbuildable", "Can carry [6] [aircraft] units", "Cannot move","[+200]% maintenance costs","Can carry [1] [Great General] units","Cannot attack"]
+		"uniques": ["Unbuildable", "Can carry [6] [aircraft] units", "Cannot move","[+200]% maintenance costs","Can carry [1] [Great General] units"]
 	},
 
 ]
