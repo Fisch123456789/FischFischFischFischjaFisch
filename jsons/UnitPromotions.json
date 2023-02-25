@@ -125,6 +125,18 @@
 
 },
 {
+	"name": "Dragonbreath II",
+	"prerequisites": ["Dragonbreath"],
+	"uniques": ["[+10]% Strength"]
+
+},
+{
+	"name": "Dragonbreath III",
+	"prerequisites": ["Dragonbreath II"],
+	"uniques": ["[+30]% Strength <vs [armored] units>"]
+
+},
+{
 "name": "Satsuma's Eye",
 	"uniques": ["[+1] Sight"]
 	
