@@ -283,7 +283,7 @@
 		"unitType": "Civilian",
 		"requiredTech": "Radar",
 		"movement": 0,
-		"uniques": ["Unbuildable", "Can carry [3] [aircraft] units", "Cannot move"]
+		"uniques": ["Unbuildable", "Can carry [3] [aircraft] units", "Cannot move","Can transform to [Military Airfield]"]
 	},
 {
 		"name": "Worker",
@@ -291,6 +291,13 @@
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles", "Can transform to [Airfield]"],
 		"cost": 70
+	},
+{
+		"name": "Military Airfield",
+		"unitType": "Civilian",
+		"requiredTech": "Radar",
+		"movement": 0,
+		"uniques": ["Unbuildable", "Can carry [6] [aircraft] units", "Cannot move","[+200]% maintenance costs","Can carry [1] [Great General] units"]
 	},
 
 ]
