@@ -127,12 +127,14 @@
 {
 	"name": "Dragonbreath II",
 	"prerequisites": ["Dragonbreath"],
+	"unitTypes": ["Sword"],
 	"uniques": ["[+10]% Strength"]
 
 },
 {
 	"name": "Dragonbreath III",
 	"prerequisites": ["Dragonbreath II"],
+	"unitTypes": ["Sword"],	
 	"uniques": ["[+30]% Strength <vs [armored] units>"]
 
 },
