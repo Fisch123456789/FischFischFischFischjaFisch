@@ -75,13 +75,13 @@
 },
 {
 		"name": "Poke"
-		"uniques":["[+100]% Strength","[+1] Range"],
+		"uniques":["[+50]% Strength","[+1] Range","[+50]% Strength <starting from the [Medieval Era]>"],
 		"unitTypes": ["Mage"],
 },
 {
 		"name": "Poke II"
 		"prerequisites": ["Poke"],
-		"uniques":["[+100]% Strength", "Ranged attacks may be performed over obstacles"],
+		"uniques":["[+50]% Strength", "Ranged attacks may be performed over obstacles", "[+50]% Strength <starting from the [Medieval Era]>"],
 		"unitTypes": ["Mage"],
 },
 {
@@ -311,18 +311,19 @@
 	},
 {
 		"name": "Stonebreaker",
-		"uniques": ["[+200]% Strength <when attacking>"],
+		"uniques": ["[+100]% Strength <when attacking>", "[+100]% Strength <when attacking> <starting from the [Medieval Era]>"],
 		"unitTypes": ["Wizard"],
 	},
 {
 		"name": "Stonebreaker II",
-		"uniques": ["[+100]% Strength <when attacking>", "[+300]% Strength <vs cities>"],
+		"uniques": ["[+100]% Strength <when attacking>", "[+150]% Strength <vs cities>", "[+150]% Strength <vs cities> <starting from the [Medieval Era]>"],
 		"unitTypes": ["Wizard"],
 
 	},
 {
 		"name": "Stonebreaker III",
-		"uniques": ["[+200]% Strength <vs cities>","[+200]% Strength <vs cities> <when attacking>"],
+		"uniques": ["[+100]% Strength <vs cities>","[+100]% Strength <vs cities> <when attacking>"
+			   "[+100]% Strength <vs cities> <starting from the [Renaissance Era]>","[+100]% Strength <vs cities> <when attacking> <starting from the [Renaissance Era]>"],
 		"unitTypes": ["Wizard"],
 		"prerequisites": ["Stonebreaker II"],
 	},
@@ -333,30 +334,30 @@
 	},
 {
 		"name": "Horsepower II",
-		"uniques": ["[+1] Movement", "[+200]% to Flank Attack bonuses"],
+		"uniques": ["[+2] Movement", "[+100]% to Flank Attack bonuses", "[+100]% to Flank Attack bonuses <starting from the [Medieval Era]>"],
 		"unitTypes": ["Shadow Knight"],
 		"prerequisites": ["Horsepower"],
 	},
 {
 		"name": "Horsepower III",
-		"uniques": ["[+200]% to Flank Attack bonuses", "Ignores terrain cost"]
+		"uniques": ["[+100]% to Flank Attack bonuses", "Ignores terrain cost","[+1] Movement","[+100]% to Flank Attack bonuses <starting from the [Medieval Era]>"]
 		"unitTypes": ["Shadow Knight"],
 		"prerequisites": ["Horsepower II"],
 	},
 {
 		"name": "Executioner",
-		"uniques": ["[+200]% Strength <when attacking>"],
+		"uniques": ["[+50]% Strength <when attacking>","[+150]% Strength <when attacking> <starting from the [Medieval Era]>"],
 		"unitTypes": ["Shadow Knight"],
 	},
 {
 		"name": "Executioner II",
-		"uniques": ["[+200]% Strength <vs [Wounded] units> <when attacking>"],
+		"uniques": ["[+100]% Strength <vs [Wounded] units> <when attacking>","[+100]% Strength <vs [Wounded] units> <when attacking> <starting from the [Medieval Era]>"],
 		"unitTypes": ["Shadow Knight"],
 		"prerequisites": ["Executioner"],
 	},
 {
 		"name": "Executioner III",
-		"uniques": ["[+200]% Strength <vs [Wounded] units> <when attacking>", "Heals [25] damage if it kills a unit"],
+		"uniques": ["[+100]% Strength <vs [Wounded] units> <when attacking>", "Heals [25] damage if it kills a unit","[+100]% Strength <vs [Wounded] units> <when attacking> <starting from the [Medieval Era]>"],
 		"unitTypes": ["Shadow Knight"],
 		"prerequisites": ["Executioner II"],
 	},
@@ -471,24 +472,25 @@
 	},
 {
 		"name": "Destroyer",
-		"uniques": ["[+300]% Strength <vs cities>"],
+		"uniques": ["[+150]% Strength <vs cities>","[+150]% Strength <vs cities> <starting from the [Medieval Era]>"],
 		"unitTypes": ["Battle Queen"]
 	},
 {
 		"name": "Destroyer II",
-		"uniques": ["Can move after attacking", "[+200]% Strength"],
+		"uniques": ["Can move after attacking", "[+100]% Strength", "[+100]% Strength <starting from the [Medieval Era]>"],
 		"unitTypes": ["Battle Queen"]
 		"prerequisites": ["Destroyer"],
 	},
 {
 		"name": "Destroyer III",
-		"uniques": ["[+1] Movement", "[+300]% Strength <vs cities>",  "Upon capturing a city, receive [4] times its [Culture] production as [Gold] immediately"],
+		"uniques": ["[+1] Movement", "[+150]% Strength <vs cities>",  "Upon capturing a city, receive [4] times its [Culture] production as [Gold] immediately",
+			   "[+150]% Strength <vs cities> <starting from the [Renaissance Era]>"],
 		"unitTypes": ["Battle Queen"],
 		"prerequisites": ["Destroyer II"],
 	},
 {
 		"name": "Hunter",
-		"uniques": ["[+1] Movement", "[+200]% Strength <vs [Wounded] units>"],
+		"uniques": ["[+1] Movement", "[+100]% Strength <vs [Wounded] units>","[+100]% Strength <vs [Wounded] units> <starting from the [Medieval Era]>"],
 		"unitTypes": ["Battle Queen"]
 	},
 {
